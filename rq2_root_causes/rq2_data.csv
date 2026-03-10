@@ -1,0 +1,655 @@
+﻿System,Issue URL,Root Cause Category,Root Cause Sub-Category,Root Cause Stage
+DocsGPT,https://github.com/arc53/DocsGPT/issues/1699,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 0: System
+DocsGPT,https://github.com/arc53/DocsGPT/issues/1697,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+DocsGPT,https://github.com/arc53/DocsGPT/issues/1400,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+DocsGPT,https://github.com/arc53/DocsGPT/issues/1340,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+DocsGPT,https://github.com/arc53/DocsGPT/issues/1313,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+DocsGPT,https://github.com/arc53/DocsGPT/issues/948,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+DocsGPT,https://github.com/arc53/DocsGPT/issues/945,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+DocsGPT,https://github.com/arc53/DocsGPT/issues/938,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+DocsGPT,https://github.com/arc53/DocsGPT/issues/932,Category A: System Implementation Defect,A4.4: External Data Source Adaptation Defect,Stage 1: Indexing
+DocsGPT,https://github.com/arc53/DocsGPT/issues/931,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+DocsGPT,https://github.com/arc53/DocsGPT/issues/930,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+DocsGPT,https://github.com/arc53/DocsGPT/issues/884,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+DocsGPT,https://github.com/arc53/DocsGPT/issues/833,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+DocsGPT,https://github.com/arc53/DocsGPT/issues/800,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 0: System
+DocsGPT,https://github.com/arc53/DocsGPT/issues/745,Category B: User Misconfiguration,B2: Component Coordination Error,Stage 3: Retrieval
+DocsGPT,https://github.com/arc53/DocsGPT/issues/562,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+DocsGPT,https://github.com/arc53/DocsGPT/issues/344,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+DocsGPT,https://github.com/arc53/DocsGPT/issues/276,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+DocsGPT,https://github.com/arc53/DocsGPT/issues/195,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 3: Retrieval
+DocsGPT,https://github.com/arc53/DocsGPT/issues/179,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+DocsGPT,https://github.com/arc53/DocsGPT/issues/55,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2849,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2846,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2841,Category B: User Misconfiguration,B4: Documentation-Induced Misconfiguration,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2809,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2777,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2766,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2764,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2751,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2741,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 3: Retrieval
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2728,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2718,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2714,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2710,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2697,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2694,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2689,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2637,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2636,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2607,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2595,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2576,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2562,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2554,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2495,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2475,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 3: Retrieval
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2469,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 3: Retrieval
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2468,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2458,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2444,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2439,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2437,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2430,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2422,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2418,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2417,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2415,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2400,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2399,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2391,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2353,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2344,Category A: System Implementation Defect,A4.7: Reranking Model Adaptation Defect,Stage 4: Post-Retrieval Processing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2321,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2315,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2288,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2287,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2284,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2261,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2224,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2219,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2214,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2206,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2184,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2163,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2140,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2136,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2116,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2068,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2065,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1990,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1751,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1748,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1723,Category B: User Misconfiguration,B2: Component Coordination Error,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1714,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1704,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1707,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 3: Retrieval
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1669,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1660,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1642,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1636,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1621,Category B: User Misconfiguration,B2: Component Coordination Error,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1600,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1581,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1571,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1562,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1546,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1523,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 4: Post-Retrieval Processing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1498,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 3: Retrieval
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1462,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1459,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1453,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1441,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1426,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1394,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1390,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1389,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1352,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1307,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1243,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1240,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1210,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1160,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1143,Category A: System Implementation Defect,A4.5: Network Infrastructure Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1116,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1094,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1049,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1021,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/968,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/875,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/867,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/863,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/840,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/827,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/821,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/800,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/798,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/766,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/756,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/719,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/660,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/655,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/654,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/644,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/630,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/617,Category A: System Implementation Defect,A4.5: Network Infrastructure Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/597,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/563,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/561,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/443,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/301,Category B: User Misconfiguration,B2: Component Coordination Error,Stage 3: Retrieval
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/252,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1880,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1858,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1813,Category A: System Implementation Defect,A4.7: Reranking Model Adaptation Defect,Stage 4: Post-Retrieval Processing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1800,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1798,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1789,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1785,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1745,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1742,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1731,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1687,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1668,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1666,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1630,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1613,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1594,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1574,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1573,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1569,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1567,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1565,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1560,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1536,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1509,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1498,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1495,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1438,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1429,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 3: Retrieval
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1386,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1327,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1321,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1306,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1251,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 3: Retrieval
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1211,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1241,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1189,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 3: Retrieval
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1179,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 3: Retrieval
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1176,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1155,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1144,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1099,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 3: Retrieval
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1094,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1089,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1088,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1086,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 3: Retrieval
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1082,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1076,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 3: Retrieval
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1059,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 3: Retrieval
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1044,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 2: Query Transformation
+LightRAG,https://github.com/HKUDS/LightRAG/issues/951,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/945,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/936,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/915,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/838,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/767,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/680,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/677,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/676,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+LightRAG,https://github.com/HKUDS/LightRAG/issues/625,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/606,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/249,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/21,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 0: System
+LightRAG,https://github.com/HKUDS/LightRAG/issues/11,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/9089,Category B: User Misconfiguration,B2: Component Coordination Error,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/8965,Category B: User Misconfiguration,B2: Component Coordination Error,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/8960,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8926,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/8909,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8840,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/8804,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8719,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8630,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8656,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/8602,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/8588,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/8556,Category B: User Misconfiguration,B4: Documentation-Induced Misconfiguration,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/8503,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8497,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/8467,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/8462,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8455,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/8443,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/8419,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/8369,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/8360,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8319,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8297,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/8227,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8226,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/8208,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/8193,Category B: User Misconfiguration,B4: Documentation-Induced Misconfiguration,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/8189,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 2: Query Transformation
+ragflow,https://github.com/infiniflow/ragflow/issues/8143,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/8134,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8109,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8097,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/8059,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/8057,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8033,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/8025,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7980,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7952,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/7908,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/7897,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/7879,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/7868,Category B: User Misconfiguration,B2: Component Coordination Error,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7830,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/7824,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7803,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/7791,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/7790,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7725,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/7702,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/7667,Category B: User Misconfiguration,B4: Documentation-Induced Misconfiguration,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/7644,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/7592,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/7567,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/7556,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/7542,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/7518,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/7466,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7449,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/7428,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/7412,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/7387,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7371,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7347,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/7321,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/7282,Category B: User Misconfiguration,B4: Documentation-Induced Misconfiguration,Stage 2: Query Transformation
+ragflow,https://github.com/infiniflow/ragflow/issues/7277,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/7249,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/7237,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/7198,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/7184,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/7153,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/7095,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/7019,Category B: User Misconfiguration,B4: Documentation-Induced Misconfiguration,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6945,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/6931,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/6862,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 4: Post-Retrieval Processing
+ragflow,https://github.com/infiniflow/ragflow/issues/6835,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/6803,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6786,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/6784,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6752,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/6741,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 4: Post-Retrieval Processing
+ragflow,https://github.com/infiniflow/ragflow/issues/6685,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6653,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6624,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6607,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/6584,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/6570,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6491,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/6308,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6066,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/6031,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/5839,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/5761,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/5713,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/5700,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 2: Query Transformation
+ragflow,https://github.com/infiniflow/ragflow/issues/5600,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/5575,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/5418,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/5382,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/5346,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/5261,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 4: Post-Retrieval Processing
+ragflow,https://github.com/infiniflow/ragflow/issues/5166,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/4968,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 4: Post-Retrieval Processing
+ragflow,https://github.com/infiniflow/ragflow/issues/4918,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/4885,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/4749,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/4678,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/4664,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/4647,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/4633,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/4567,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/4464,Category A: System Implementation Defect,A4.6: External Application Integration Defect,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/4379,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/4374,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/4331,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/4278,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/4230,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/4189,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/4180,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/4164,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/4163,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/4160,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/4141,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/4126,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/4124,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/4122,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/4120,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/4109,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/4003,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/3910,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/3905,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/3883,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/3820,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/3816,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/3814,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/3811,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/3799,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/3772,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/3729,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/3700,Category A: System Implementation Defect,A4.7: Reranking Model Adaptation Defect,Stage 4: Post-Retrieval Processing
+ragflow,https://github.com/infiniflow/ragflow/issues/3696,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 2: Query Transformation
+ragflow,https://github.com/infiniflow/ragflow/issues/3679,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/3657,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/3623,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/3596,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/3570,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/3538,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/3384,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/3308,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/3299,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/3273,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/3263,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/3253,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/3173,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/3153,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/3151,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/3024,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/2997,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/2948,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/2794,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/2765,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/2749,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/2739,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/2720,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/2575,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 4: Post-Retrieval Processing
+ragflow,https://github.com/infiniflow/ragflow/issues/2552,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 4: Post-Retrieval Processing
+ragflow,https://github.com/infiniflow/ragflow/issues/2545,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 2: Query Transformation
+ragflow,https://github.com/infiniflow/ragflow/issues/2506,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/2463,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/2402,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/2362,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 2: Query Transformation
+ragflow,https://github.com/infiniflow/ragflow/issues/2359,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/2270,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/2231,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 4: Post-Retrieval Processing
+ragflow,https://github.com/infiniflow/ragflow/issues/2198,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/2085,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/2053,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1968,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/1958,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1861,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1848,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/1835,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/1800,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1769,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/1726,Category A: System Implementation Defect,A4.4: External Data Source Adaptation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/1704,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1627,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1522,Category A: System Implementation Defect,A4.7: Reranking Model Adaptation Defect,Stage 4: Post-Retrieval Processing
+ragflow,https://github.com/infiniflow/ragflow/issues/1475,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1472,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/1436,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/1407,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1403,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/1402,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 0: System
+ragflow,https://github.com/infiniflow/ragflow/issues/1395,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 4: Post-Retrieval Processing
+ragflow,https://github.com/infiniflow/ragflow/issues/1340,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/1288,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1250,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1210,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1159,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/995,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/994,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/991,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 4: Post-Retrieval Processing
+ragflow,https://github.com/infiniflow/ragflow/issues/980,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/963,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/922,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/834,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/651,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/509,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/502,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/477,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/436,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/423,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/265,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/209,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+FastGPT,https://github.com/labring/FastGPT/issues/4906,Category A: System Implementation Defect,A4.4: External Data Source Adaptation Defect,Stage 1: Indexing
+FastGPT,https://github.com/labring/FastGPT/issues/4879,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/4846,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 4: Post-Retrieval Processing
+FastGPT,https://github.com/labring/FastGPT/issues/4840,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/4829,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/4770,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+FastGPT,https://github.com/labring/FastGPT/issues/4738,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/4653,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+FastGPT,https://github.com/labring/FastGPT/issues/4481,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/4255,Category A: System Implementation Defect,A4.7: Reranking Model Adaptation Defect,Stage 4: Post-Retrieval Processing
+FastGPT,https://github.com/labring/FastGPT/issues/4034,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/4023,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/3835,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+FastGPT,https://github.com/labring/FastGPT/issues/3793,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+FastGPT,https://github.com/labring/FastGPT/issues/3791,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/3705,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+FastGPT,https://github.com/labring/FastGPT/issues/3695,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+FastGPT,https://github.com/labring/FastGPT/issues/3694,Category A: System Implementation Defect,A4.7: Reranking Model Adaptation Defect,Stage 4: Post-Retrieval Processing
+FastGPT,https://github.com/labring/FastGPT/issues/3474,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+FastGPT,https://github.com/labring/FastGPT/issues/3017,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/2942,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/2929,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/2918,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/2899,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/2895,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+FastGPT,https://github.com/labring/FastGPT/issues/2780,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/2770,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/2662,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/2519,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/2416,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+FastGPT,https://github.com/labring/FastGPT/issues/2289,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+FastGPT,https://github.com/labring/FastGPT/issues/2105,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+FastGPT,https://github.com/labring/FastGPT/issues/1933,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/1823,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/1811,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1772,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+FastGPT,https://github.com/labring/FastGPT/issues/1719,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1704,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+FastGPT,https://github.com/labring/FastGPT/issues/1700,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1668,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1641,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/1628,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+FastGPT,https://github.com/labring/FastGPT/issues/1616,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1600,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/1596,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/1571,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+FastGPT,https://github.com/labring/FastGPT/issues/1560,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1532,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/1514,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/1462,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1460,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+FastGPT,https://github.com/labring/FastGPT/issues/1449,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/1335,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/1271,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 4: Post-Retrieval Processing
+FastGPT,https://github.com/labring/FastGPT/issues/1253,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1188,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1156,Category B: User Misconfiguration,B2: Component Coordination Error,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1085,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 4: Post-Retrieval Processing
+FastGPT,https://github.com/labring/FastGPT/issues/1038,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1032,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/961,Category A: System Implementation Defect,A4.7: Reranking Model Adaptation Defect,Stage 4: Post-Retrieval Processing
+FastGPT,https://github.com/labring/FastGPT/issues/937,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+FastGPT,https://github.com/labring/FastGPT/issues/882,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/829,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 4: Post-Retrieval Processing
+FastGPT,https://github.com/labring/FastGPT/issues/776,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 4: Post-Retrieval Processing
+FastGPT,https://github.com/labring/FastGPT/issues/760,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/691,Category B: User Misconfiguration,B2: Component Coordination Error,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/652,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+FastGPT,https://github.com/labring/FastGPT/issues/647,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/637,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+FastGPT,https://github.com/labring/FastGPT/issues/614,Category B: User Misconfiguration,B2: Component Coordination Error,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/586,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 1: Indexing
+FastGPT,https://github.com/labring/FastGPT/issues/515,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+FastGPT,https://github.com/labring/FastGPT/issues/338,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1604,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1596,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1591,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1563,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1422,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 2: Query Transformation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1392,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1367,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1270,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1247,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1233,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1161,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1138,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1011,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/986,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/822,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/755,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/745,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/739,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/705,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/670,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/640,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/609,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/475,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/461,Category A: System Implementation Defect,A4.5: Network Infrastructure Adaptation Defect,Stage 0: System
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/360,Category A: System Implementation Defect,A4.5: Network Infrastructure Adaptation Defect,Stage 0: System
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/340,Category B: User Misconfiguration,B2: Component Coordination Error,Stage 1: Indexing
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/335,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/256,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/144,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 3: Retrieval
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/129,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/118,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/104,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/73,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/37,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/7,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 5: Generation
+graphrag,https://github.com/microsoft/graphrag/issues/1982,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/1977,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/1970,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 3: Retrieval
+graphrag,https://github.com/microsoft/graphrag/issues/1936,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 4: Post-Retrieval Processing
+graphrag,https://github.com/microsoft/graphrag/issues/1876,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1859,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/1825,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1806,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/1804,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 3: Retrieval
+graphrag,https://github.com/microsoft/graphrag/issues/1725,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+graphrag,https://github.com/microsoft/graphrag/issues/1715,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1710,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1673,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/1657,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/1642,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1637,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/1620,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/1601,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1557,Category B: User Misconfiguration,B2: Component Coordination Error,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/1538,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/1506,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1499,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/1481,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/1476,Category B: User Misconfiguration,B2: Component Coordination Error,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/1472,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/1432,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 3: Retrieval
+graphrag,https://github.com/microsoft/graphrag/issues/1430,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 3: Retrieval
+graphrag,https://github.com/microsoft/graphrag/issues/1417,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 3: Retrieval
+graphrag,https://github.com/microsoft/graphrag/issues/1410,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1390,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1384,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/1382,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1367,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 2: Query Transformation
+graphrag,https://github.com/microsoft/graphrag/issues/1355,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1335,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1208,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1173,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+graphrag,https://github.com/microsoft/graphrag/issues/1137,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1136,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1135,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/1085,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/1080,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/946,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/871,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/813,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 3: Retrieval
+graphrag,https://github.com/microsoft/graphrag/issues/796,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/793,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/789,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/776,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/770,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/676,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/674,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/615,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/613,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/599,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/498,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/492,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/489,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/479,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/466,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/383,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/379,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/367,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+graphrag,https://github.com/microsoft/graphrag/issues/55,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/123,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/121,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 5: Generation
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/76,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/53,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/31,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/15,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/6,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+quivr,https://github.com/QuivrHQ/quivr/issues/2794,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/2784,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 1: Indexing
+quivr,https://github.com/QuivrHQ/quivr/issues/2782,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+quivr,https://github.com/QuivrHQ/quivr/issues/2777,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/2631,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/2599,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/2486,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+quivr,https://github.com/QuivrHQ/quivr/issues/2397,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+quivr,https://github.com/QuivrHQ/quivr/issues/2384,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+quivr,https://github.com/QuivrHQ/quivr/issues/2356,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+quivr,https://github.com/QuivrHQ/quivr/issues/2270,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/2267,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/2263,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+quivr,https://github.com/QuivrHQ/quivr/issues/2204,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/2056,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+quivr,https://github.com/QuivrHQ/quivr/issues/1690,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/1553,Category A: System Implementation Defect,A2: RAG Component Implementation Defect,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/1393,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/1392,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+quivr,https://github.com/QuivrHQ/quivr/issues/1363,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/1248,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+quivr,https://github.com/QuivrHQ/quivr/issues/502,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/2138,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/1044,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/1040,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/1028,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 0: System
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/990,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 1: Indexing
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/943,Category A: System Implementation Defect,A1: Configuration Handling Defect,Stage 0: System
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/931,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 0: System
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/918,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 0: System
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/869,Category A: System Implementation Defect,A4.2: Database Adaptation Defect,Stage 0: System
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/844,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 0: System
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/621,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/567,Category A: System Implementation Defect,A4.1: LLM Adaptation Defect,Stage 0: System
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/566,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/565,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/564,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/559,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/557,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/538,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/517,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/491,Category B: User Misconfiguration,B3: Configuration Understanding Error,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/468,Category B: User Misconfiguration,B2: Component Coordination Error,Stage 1: Indexing
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/466,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/461,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/459,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/394,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/368,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/351,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/316,Category A: System Implementation Defect,A5: Resource Provisioning & Orchestration Defect,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/250,Category B: User Misconfiguration,B1: Resource Configuration Error,Stage 1: Indexing
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/220,Category A: System Implementation Defect,A4.3: Embedding Model Adaptation Defect,Stage 1: Indexing
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/218,Category A: System Implementation Defect,A3: Inter-Component Integration Defect,Stage 5: Generation

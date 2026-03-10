@@ -1,0 +1,346 @@
+﻿System,Issue URL,Fix Pattern,Fix Cost,PR URL
+DocsGPT,https://github.com/arc53/DocsGPT/issues/1699,F1: Data Interaction & Mapping Fix,18.63 hours,https://github.com/arc53/DocsGPT/pull/1702
+DocsGPT,https://github.com/arc53/DocsGPT/issues/1313,F1: Data Interaction & Mapping Fix,26.86 hours,https://github.com/arc53/DocsGPT/pull/1314
+DocsGPT,https://github.com/arc53/DocsGPT/issues/948,F2: Component Logic & Algorithm Fix,4071.39 hours,https://github.com/arc53/DocsGPT/pull/1384
+DocsGPT,https://github.com/arc53/DocsGPT/issues/945,F6: Lifecycle & Resource Scheduling,1107.59 hours,https://github.com/arc53/DocsGPT/pull/1013
+DocsGPT,https://github.com/arc53/DocsGPT/issues/938,F2: Component Logic & Algorithm Fix,220.09 hours,https://github.com/arc53/DocsGPT/pull/952
+DocsGPT,https://github.com/arc53/DocsGPT/issues/932,F1: Data Interaction & Mapping Fix,13.39 hours,https://github.com/arc53/DocsGPT/pull/933
+DocsGPT,https://github.com/arc53/DocsGPT/issues/884,F5: Environment & Documentation Maintenance,423.55 hours,https://github.com/arc53/DocsGPT/pull/916
+DocsGPT,https://github.com/arc53/DocsGPT/issues/800,F5: Environment & Documentation Maintenance,49.3 hours,https://github.com/arc53/DocsGPT/pull/801
+DocsGPT,https://github.com/arc53/DocsGPT/issues/276,F1: Data Interaction & Mapping Fix,100.37 hours,https://github.com/arc53/DocsGPT/pull/278
+DocsGPT,https://github.com/arc53/DocsGPT/issues/55,F3: Defensive Check & Robustness Fix,146.97 hours,https://github.com/arc53/DocsGPT/pull/91
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2849,F3: Defensive Check & Robustness Fix,50.06 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2850
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2846,F2: Component Logic & Algorithm Fix,73.51 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2848
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2841,F5: Environment & Documentation Maintenance,66.89 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2840
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2809,F6: Lifecycle & Resource Scheduling,21.89 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2810
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2777,F4: Static Definition & Prompt Tuning,9.57 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2778
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2766,F2: Component Logic & Algorithm Fix,260.64 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2769
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2751,F2: Component Logic & Algorithm Fix,938.79 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2847
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2741,F1: Data Interaction & Mapping Fix,1313.91 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2812
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2728,F6: Lifecycle & Resource Scheduling,2.79 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2729
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2718,F3: Defensive Check & Robustness Fix,124.7 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2719
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2714,F5: Environment & Documentation Maintenance,46.4 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2721
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2710,F3: Defensive Check & Robustness Fix,39.97 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2712
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2697,F2: Component Logic & Algorithm Fix,193.46 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2726
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2694,F1: Data Interaction & Mapping Fix,21.3 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2695
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2689,F5: Environment & Documentation Maintenance,170.96 hours,https://github.comcom/eosphoros-ai/DB-GPT/pull/2705
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2637,F4: Static Definition & Prompt Tuning,97.44 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2644
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2636,F1: Data Interaction & Mapping Fix,47.09 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2638
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2607,F6: Lifecycle & Resource Scheduling,56.89 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2614
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2595,F2: Component Logic & Algorithm Fix,169.15 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2615
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2576,F1: Data Interaction & Mapping Fix,184.1 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2577
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2554,F2: Component Logic & Algorithm Fix,20.84 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2555
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2495,F6: Lifecycle & Resource Scheduling,19.66 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2500
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2475,F5: Environment & Documentation Maintenance,6.36 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2477
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2469,F1: Data Interaction & Mapping Fix,324.29 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2533
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2468,F1: Data Interaction & Mapping Fix,71.95 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2477
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2444,F2: Component Logic & Algorithm Fix,56.85 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2461
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2439,F2: Component Logic & Algorithm Fix,13.72 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2443
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2437,F2: Component Logic & Algorithm Fix,76.84 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2464
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2422,F3: Defensive Check & Robustness Fix,110.09 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2465
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2418,F1: Data Interaction & Mapping Fix,141.71 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2461
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2417,F2: Component Logic & Algorithm Fix,219.32 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2434
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2400,F1: Data Interaction & Mapping Fix,22.18 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2401
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2399,F1: Data Interaction & Mapping Fix,209.52 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2461
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2391,F1: Data Interaction & Mapping Fix,6.03 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2394
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2321,F2: Component Logic & Algorithm Fix,4150.73 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2847
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2288,F2: Component Logic & Algorithm Fix,24.54 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2289
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2287,F5: Environment & Documentation Maintenance,23.71 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2290
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2224,F6: Lifecycle & Resource Scheduling,28.8 hours,https://github.com/dusx1981/DB-GPT/pull/1
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2219,F2: Component Logic & Algorithm Fix,24.27 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2230
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2214,F3: Defensive Check & Robustness Fix,47.57 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2215
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2206,F2: Component Logic & Algorithm Fix,97.83 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2230
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2184,F6: Lifecycle & Resource Scheduling,770.32 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2290
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2163,F6: Lifecycle & Resource Scheduling,1006.74 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2290
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2136,F4: Static Definition & Prompt Tuning,4.77 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2137
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1990,F2: Component Logic & Algorithm Fix,0.9 hours,https://github.com/eosphoros-ai/DB-GPT/pull/1989
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1751,F2: Component Logic & Algorithm Fix,14.63 hours,https://github.com/eosphoros-ai/DB-GPT/pull/1753
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1748,F6: Lifecycle & Resource Scheduling,1350.03 hours,https://github.com/eosphoros-ai/DB-GPT/pull/2018
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1707,F2: Component Logic & Algorithm Fix,7.96 hours,https://github.com/eosphoros-ai/DB-GPT/pull/1706
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1669,F1: Data Interaction & Mapping Fix,44.6 hours,https://github.com/eosphoros-ai/DB-GPT/pull/1672
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1600,F1: Data Interaction & Mapping Fix,20.98 hours,https://github.com/eosphoros-ai/DB-GPT/pull/1601
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1581,F2: Component Logic & Algorithm Fix,12.39 hours,https://github.com/eosphoros-ai/DB-GPT/pull/1547
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1562,F1: Data Interaction & Mapping Fix,70.46 hours,https://github.com/eosphoros-ai/DB-GPT/pull/1579
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1546,F1: Data Interaction & Mapping Fix,240.89 hours,https://github.com/eosphoros-ai/DB-GPT/pull/1547
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1523,F3: Defensive Check & Robustness Fix,104.86 hours,https://github.com/eosphoros-ai/DB-GPT/pull/1531
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1498,F1: Data Interaction & Mapping Fix,13.37 hours,https://github.com/eosphoros-ai/DB-GPT/pull/1499
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1426,F1: Data Interaction & Mapping Fix,3318.51 hours,https://github.com/eosphoros-ai/DB-GPT/pull/1935
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1352,F2: Component Logic & Algorithm Fix,468.54 hours,https://github.com/eosphoros-ai/DB-GPT/pull/1432
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1307,F2: Component Logic & Algorithm Fix,6.01 hours,https://github.com/eosphoros-ai/DB-GPT/pull/1308
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1243,F1: Data Interaction & Mapping Fix,244.32 hours,https://github.com/eosphoros-ai/DB-GPT/pull/1283
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1210,F2: Component Logic & Algorithm Fix,43.75 hours,https://github.com/eosphoros-ai/DB-GPT/pull/1219
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1116,F2: Component Logic & Algorithm Fix,4.97 hours,https://github.com/eosphoros-ai/DB-GPT/pull/1117
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1094,F4: Static Definition & Prompt Tuning,21.0 hours,https://github.com/eosphoros-ai/DB-GPT/pull/1095
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1021,F1: Data Interaction & Mapping Fix,6.68 hours,https://github.com/eosphoros-ai/DB-GPT/pull/1027
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/968,F6: Lifecycle & Resource Scheduling,120.14 hours,https://github.com/eosphoros-ai/DB-GPT/pull/989
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/875,F2: Component Logic & Algorithm Fix,84.21 hours,https://github.com/eosphoros-ai/DB-GPT/pull/885
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/867,F1: Data Interaction & Mapping Fix,24.77 hours,https://github.com/eosphoros-ai/DB-GPT/pull/871
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/800,F1: Data Interaction & Mapping Fix,100.64 hours,https://github.com/eosphoros-ai/DB-GPT/commit/16a9951cae8b1e4f4886915121406606001a1d94
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/766,F2: Component Logic & Algorithm Fix,140.88 hours,https://github.com/eosphoros-ai/DB-GPT/pull/784
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/756,F2: Component Logic & Algorithm Fix,150.6 hours,https://github.com/eosphoros-ai/DB-GPT/pull/781
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/719,F4: Static Definition & Prompt Tuning,62.87 hours,https://github.com/eosphoros-ai/DB-GPT/pull/732
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/660,F2: Component Logic & Algorithm Fix,139.99 hours,https://github.com/eosphoros-ai/DB-GPT/pull/675
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/655,F4: Static Definition & Prompt Tuning,8.95 hours,https://github.com/eosphoros-ai/DB-GPT/pull/656
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/644,F2: Component Logic & Algorithm Fix,122.8 hours,https://github.com/eosphoros-ai/DB-GPT/pull/649
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/617,F2: Component Logic & Algorithm Fix,64.41 hours,https://github.com/eosphoros-ai/DB-GPT/pull/616
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/563,F2: Component Logic & Algorithm Fix,716.62 hours,https://github.com/eosphoros-ai/DB-GPT/pull/649
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/443,F2: Component Logic & Algorithm Fix,253.97 hours,https://github.com/eosphoros-ai/DB-GPT/pull/478
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1813,F1: Data Interaction & Mapping Fix,4.59 hours,https://github.com/HKUDS/LightRAG/pull/1815
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1800,F1: Data Interaction & Mapping Fix,11.01 hours,https://github.com/HKUDS/LightRAG/pull/1801
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1798,F2: Component Logic & Algorithm Fix,13.48 hours,https://github.com/HKUDS/LightRAG/pull/1802
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1789,F6: Lifecycle & Resource Scheduling,65.12 hours,https://github.com/HKUDS/LightRAG/pull/1810
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1785,F1: Data Interaction & Mapping Fix,31.73 hours,https://github.com/HKUDS/LightRAG/pull/1792
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1745,F2: Component Logic & Algorithm Fix,0 hours,https://github.com/HKUDS/LightRAG/pull/1743
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1742,F4: Static Definition & Prompt Tuning,38.96 hours,https://github.com/HKUDS/LightRAG/pull/1750
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1666,F2: Component Logic & Algorithm Fix,464.97 hours,https://github.com/HKUDS/LightRAG/pull/1714
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1594,F2: Component Logic & Algorithm Fix,921.06 hours,https://github.com/HKUDS/LightRAG/pull/1683
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1495,F4: Static Definition & Prompt Tuning,229.13 hours,https://github.com/HKUDS/LightRAG/pull/1547
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1429,F3: Defensive Check & Robustness Fix,0.91 hours,https://github.com/HKUDS/LightRAG/pull/1431
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1241,F2: Component Logic & Algorithm Fix,102.13 hours,https://github.com/HKUDS/LightRAG/pull/1237
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1189,F2: Component Logic & Algorithm Fix,656.74 hours,https://github.com/HKUDS/LightRAG/pull/1427
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1099,F4: Static Definition & Prompt Tuning,6.58 hours,https://github.com/HKUDS/LightRAG/pull/1100
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1088,F1: Data Interaction & Mapping Fix,56.04 hours,https://github.com/HKUDS/LightRAG/pull/1091
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1086,F2: Component Logic & Algorithm Fix,88.63 hours,https://github.com/HKUDS/LightRAG/pull/1087
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1076,F2: Component Logic & Algorithm Fix,100.73 hours,https://github.com/HKUDS/LightRAG/pull/1085
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1059,F1: Data Interaction & Mapping Fix,14.36 hours,https://github.com/HKUDS/LightRAG/pull/1060
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1044,F4: Static Definition & Prompt Tuning,3.08 hours,https://github.com/HKUDS/LightRAG/pull/1045
+LightRAG,https://github.com/HKUDS/LightRAG/issues/951,F6: Lifecycle & Resource Scheduling,103.16 hours,https://github.com/HKUDS/LightRAG/pull/969
+LightRAG,https://github.com/HKUDS/LightRAG/issues/680,F1: Data Interaction & Mapping Fix,952.53 hours,https://github.com/HKUDS/LightRAG/pull/1043
+LightRAG,https://github.com/HKUDS/LightRAG/issues/625,F1: Data Interaction & Mapping Fix,18.02 hours,https://github.com/HKUDS/LightRAG/pull/628
+ragflow,https://github.com/infiniflow/ragflow/issues/8960,F4: Static Definition & Prompt Tuning,40.48 hours,https://github.com/infiniflow/ragflow/pull/8998
+ragflow,https://github.com/infiniflow/ragflow/issues/8804,F2: Component Logic & Algorithm Fix,93.21 hours,https://github.com/infiniflow/ragflow/pull/8844
+ragflow,https://github.com/infiniflow/ragflow/issues/8719,F3: Defensive Check & Robustness Fix,78.82 hours,https://github.com/infiniflow/ragflow/pull/8775
+ragflow,https://github.com/infiniflow/ragflow/issues/8656,F3: Defensive Check & Robustness Fix,17.08 hours,https://github.com/infiniflow/ragflow/pull/8657
+ragflow,https://github.com/infiniflow/ragflow/issues/8602,F3: Defensive Check & Robustness Fix,27.28 hours,https://github.com/infiniflow/ragflow/pull/8603
+ragflow,https://github.com/infiniflow/ragflow/issues/8556,F5: Environment & Documentation Maintenance,63.5 hours,https://github.com/infiniflow/ragflow/pull/8590
+ragflow,https://github.com/infiniflow/ragflow/issues/8503,F6: Lifecycle & Resource Scheduling,7.55 hours,https://github.com/infiniflow/ragflow/pull/8513
+ragflow,https://github.com/infiniflow/ragflow/issues/8467,F2: Component Logic & Algorithm Fix,58.47 hours,https://github.com/infiniflow/ragflow/pull/8502
+ragflow,https://github.com/infiniflow/ragflow/issues/8462,F3: Defensive Check & Robustness Fix,48.15 hours,https://github.com/infiniflow/ragflow/pull/8516
+ragflow,https://github.com/infiniflow/ragflow/issues/8455,F2: Component Logic & Algorithm Fix,0 hours,https://github.com/infiniflow/ragflow/pull/8398
+ragflow,https://github.com/infiniflow/ragflow/issues/8360,F2: Component Logic & Algorithm Fix,25.01 hours,https://github.com/infiniflow/ragflow/pull/8378
+ragflow,https://github.com/infiniflow/ragflow/issues/8227,F2: Component Logic & Algorithm Fix,21.71 hours,https://github.com/infiniflow/ragflow/pull/8250
+ragflow,https://github.com/infiniflow/ragflow/issues/8208,F3: Defensive Check & Robustness Fix,4.19 hours,https://github.com/infiniflow/ragflow/pull/8215
+ragflow,https://github.com/infiniflow/ragflow/issues/8189,F2: Component Logic & Algorithm Fix,19.66 hours,https://github.com/infiniflow/ragflow/pull/8190
+ragflow,https://github.com/infiniflow/ragflow/issues/8109,F2: Component Logic & Algorithm Fix,68.89 hours,https://github.com/infiniflow/ragflow/pull/8133
+ragflow,https://github.com/infiniflow/ragflow/issues/8097,F3: Defensive Check & Robustness Fix,7.3 hours,https://github.com/infiniflow/ragflow/pull/8106
+ragflow,https://github.com/infiniflow/ragflow/issues/8059,F2: Component Logic & Algorithm Fix,13.69 hours,https://github.com/infiniflow/ragflow/pull/8069
+ragflow,https://github.com/infiniflow/ragflow/issues/8057,F2: Component Logic & Algorithm Fix,12.11 hours,https://github.com/infiniflow/ragflow/pull/8058
+ragflow,https://github.com/infiniflow/ragflow/issues/8033,F1: Data Interaction & Mapping Fix,11.3 hours,https://github.com/infiniflow/ragflow/pull/8037
+ragflow,https://github.com/infiniflow/ragflow/issues/7980,F2: Component Logic & Algorithm Fix,92.84 hours,https://github.com/infiniflow/ragflow/pull/8013
+ragflow,https://github.com/infiniflow/ragflow/issues/7908,F2: Component Logic & Algorithm Fix,21.23 hours,https://github.com/infiniflow/ragflow/pull/7933
+ragflow,https://github.com/infiniflow/ragflow/issues/7879,F3: Defensive Check & Robustness Fix,22.02 hours,https://github.com/infiniflow/ragflow/pull/7899
+ragflow,https://github.com/infiniflow/ragflow/issues/7830,F3: Defensive Check & Robustness Fix,43.45 hours,https://github.com/infiniflow/ragflow/pull/7842
+ragflow,https://github.com/infiniflow/ragflow/issues/7824,F2: Component Logic & Algorithm Fix,142.15 hours,https://github.com/infiniflow/ragflow/pull/7941
+ragflow,https://github.com/infiniflow/ragflow/issues/7791,F2: Component Logic & Algorithm Fix,291.37 hours,https://github.com/infiniflow/ragflow/pull/8016
+ragflow,https://github.com/infiniflow/ragflow/issues/7790,F2: Component Logic & Algorithm Fix,26.99 hours,https://github.com/infiniflow/ragflow/pull/7806
+ragflow,https://github.com/infiniflow/ragflow/issues/7725,F2: Component Logic & Algorithm Fix,31.29 hours,https://github.com/infiniflow/ragflow/pull/7772
+ragflow,https://github.com/infiniflow/ragflow/issues/7592,F3: Defensive Check & Robustness Fix,14.35 hours,https://github.com/infiniflow/ragflow/pull/7595
+ragflow,https://github.com/infiniflow/ragflow/issues/7567,F1: Data Interaction & Mapping Fix,57.77 hours,https://github.com/infiniflow/ragflow/pull/7575
+ragflow,https://github.com/infiniflow/ragflow/issues/7518,F1: Data Interaction & Mapping Fix,43.65 hours,https://github.com/infiniflow/ragflow/pull/7560
+ragflow,https://github.com/infiniflow/ragflow/issues/7466,F3: Defensive Check & Robustness Fix,26.8 hours,https://github.com/infiniflow/ragflow/pull/7477
+ragflow,https://github.com/infiniflow/ragflow/issues/7412,F6: Lifecycle & Resource Scheduling,160.6 hours,https://github.com/infiniflow/ragflow/pull/7443
+ragflow,https://github.com/infiniflow/ragflow/issues/7347,F2: Component Logic & Algorithm Fix,23.63 hours,https://github.com/infiniflow/ragflow/pull/7354
+ragflow,https://github.com/infiniflow/ragflow/issues/7321,F1: Data Interaction & Mapping Fix,48.79 hours,https://github.com/infiniflow/ragflow/pull/7329
+ragflow,https://github.com/infiniflow/ragflow/issues/7282,F5: Environment & Documentation Maintenance,327.61 hours,https://github.com/infiniflow/ragflow/pull/7507
+ragflow,https://github.com/infiniflow/ragflow/issues/7277,F2: Component Logic & Algorithm Fix,16.7 hours,https://github.com/infiniflow/ragflow/pull/7281
+ragflow,https://github.com/infiniflow/ragflow/issues/7249,F1: Data Interaction & Mapping Fix,8.93 hours,https://github.com/infiniflow/ragflow/pull/7251
+ragflow,https://github.com/infiniflow/ragflow/issues/7198,F2: Component Logic & Algorithm Fix,0.36 hours,https://github.com/infiniflow/ragflow/pull/7199
+ragflow,https://github.com/infiniflow/ragflow/issues/7184,F2: Component Logic & Algorithm Fix,25.82 hours,https://github.com/infiniflow/ragflow/pull/7220
+ragflow,https://github.com/infiniflow/ragflow/issues/7019,F5: Environment & Documentation Maintenance,14.88 hours,https://github.com/infiniflow/ragflow/pull/7042
+ragflow,https://github.com/infiniflow/ragflow/issues/6931,F1: Data Interaction & Mapping Fix,0 hours,https://github.com/infiniflow/ragflow/pull/6909
+ragflow,https://github.com/infiniflow/ragflow/issues/6835,F1: Data Interaction & Mapping Fix,2.99 hours,https://github.com/infiniflow/ragflow/pull/6836
+ragflow,https://github.com/infiniflow/ragflow/issues/6803,F1: Data Interaction & Mapping Fix,145.71 hours,https://github.com/infiniflow/ragflow/pull/6909
+ragflow,https://github.com/infiniflow/ragflow/issues/6786,F1: Data Interaction & Mapping Fix,95.33 hours,https://github.com/infiniflow/ragflow/pull/6836
+ragflow,https://github.com/infiniflow/ragflow/issues/6784,F3: Defensive Check & Robustness Fix,97.03 hours,https://github.com/infiniflow/ragflow/pull/6839
+ragflow,https://github.com/infiniflow/ragflow/issues/6752,F1: Data Interaction & Mapping Fix,3.65 hours,https://github.com/infiniflow/ragflow/pull/6753
+ragflow,https://github.com/infiniflow/ragflow/issues/6741,F2: Component Logic & Algorithm Fix,218.46 hours,https://github.com/infiniflow/ragflow/pull/6932
+ragflow,https://github.com/infiniflow/ragflow/issues/6653,F2: Component Logic & Algorithm Fix,70.17 hours,https://github.com/infiniflow/ragflow/pull/6691
+ragflow,https://github.com/infiniflow/ragflow/issues/6624,F2: Component Logic & Algorithm Fix,11.27 hours,https://github.com/infiniflow/ragflow/pull/6651
+ragflow,https://github.com/infiniflow/ragflow/issues/6607,F2: Component Logic & Algorithm Fix,145.34 hours,https://github.com/infiniflow/ragflow/pull/6643
+ragflow,https://github.com/infiniflow/ragflow/issues/6570,F6: Lifecycle & Resource Scheduling,21.31 hours,https://github.com/infiniflow/ragflow/commit/36b62e0
+ragflow,https://github.com/infiniflow/ragflow/issues/6491,F2: Component Logic & Algorithm Fix,31.53 hours,https://github.com/infiniflow/ragflow/pull/6534
+ragflow,https://github.com/infiniflow/ragflow/issues/6308,F4: Static Definition & Prompt Tuning,30.44 hours,https://github.com/infiniflow/ragflow/pull/6401
+ragflow,https://github.com/infiniflow/ragflow/issues/6066,F1: Data Interaction & Mapping Fix,6.75 hours,https://github.com/infiniflow/ragflow/pull/6105
+ragflow,https://github.com/infiniflow/ragflow/issues/6031,F3: Defensive Check & Robustness Fix,19.24 hours,https://github.com/infiniflow/ragflow/pull/6064
+ragflow,https://github.com/infiniflow/ragflow/issues/5839,F3: Defensive Check & Robustness Fix,18.31 hours,https://github.com/infiniflow/ragflow/pull/5864
+ragflow,https://github.com/infiniflow/ragflow/issues/5761,F3: Defensive Check & Robustness Fix,0.93 hours,https://github.com/infiniflow/ragflow/pull/5765
+ragflow,https://github.com/infiniflow/ragflow/issues/5713,F4: Static Definition & Prompt Tuning,169.99 hours,https://github.com/infiniflow/ragflow/pull/6027
+ragflow,https://github.com/infiniflow/ragflow/issues/5600,F1: Data Interaction & Mapping Fix,18.85 hours,https://github.com/infiniflow/ragflow/pull/5620
+ragflow,https://github.com/infiniflow/ragflow/issues/5575,F2: Component Logic & Algorithm Fix,14.51 hours,https://github.com/infiniflow/ragflow/pull/5591
+ragflow,https://github.com/infiniflow/ragflow/issues/5418,F2: Component Logic & Algorithm Fix,768.03 hours,https://github.com/infiniflow/ragflow/pull/6659
+ragflow,https://github.com/infiniflow/ragflow/issues/5382,F2: Component Logic & Algorithm Fix,26.25 hours,https://github.com/infiniflow/ragflow/pull/5448
+ragflow,https://github.com/infiniflow/ragflow/issues/5261,F3: Defensive Check & Robustness Fix,25.81 hours,https://github.com/infiniflow/ragflow/pull/5278
+ragflow,https://github.com/infiniflow/ragflow/issues/5166,F2: Component Logic & Algorithm Fix,1.75 hours,https://github.com/infiniflow/ragflow/pull/5169
+ragflow,https://github.com/infiniflow/ragflow/issues/4968,F2: Component Logic & Algorithm Fix,68.14 hours,https://github.com/infiniflow/ragflow/pull/4970
+ragflow,https://github.com/infiniflow/ragflow/issues/4918,F2: Component Logic & Algorithm Fix,325.33 hours,https://github.com/infiniflow/ragflow/pull/5361
+ragflow,https://github.com/infiniflow/ragflow/issues/4885,F3: Defensive Check & Robustness Fix,56.29 hours,https://github.com/infiniflow/ragflow/pull/4944
+ragflow,https://github.com/infiniflow/ragflow/issues/4749,F5: Environment & Documentation Maintenance,38.75 hours,https://github.com/infiniflow/ragflow/pull/4785
+ragflow,https://github.com/infiniflow/ragflow/issues/4664,F2: Component Logic & Algorithm Fix,209.25 hours,https://github.com/infiniflow/ragflow/pull/4711
+ragflow,https://github.com/infiniflow/ragflow/issues/4633,F1: Data Interaction & Mapping Fix,42.11 hours,https://github.com/infiniflow/ragflow/pull/4645
+ragflow,https://github.com/infiniflow/ragflow/issues/4567,F2: Component Logic & Algorithm Fix,62.9 hours,https://github.com/infiniflow/ragflow/pull/4623
+ragflow,https://github.com/infiniflow/ragflow/issues/4464,F1: Data Interaction & Mapping Fix,19.7 hours,https://github.com/infiniflow/ragflow/pull/4473
+ragflow,https://github.com/infiniflow/ragflow/issues/4379,F2: Component Logic & Algorithm Fix,721.77 hours,https://github.com/infiniflow/ragflow/pull/4736
+ragflow,https://github.com/infiniflow/ragflow/issues/4331,F2: Component Logic & Algorithm Fix,0.01 hours,https://github.com/infiniflow/ragflow/pull/4330
+ragflow,https://github.com/infiniflow/ragflow/issues/4230,F2: Component Logic & Algorithm Fix,322.57 hours,https://github.com/infiniflow/ragflow/pull/4404
+ragflow,https://github.com/infiniflow/ragflow/issues/4189,F3: Defensive Check & Robustness Fix,16.98 hours,https://github.com/infiniflow/ragflow/pull/4202
+ragflow,https://github.com/infiniflow/ragflow/issues/4180,F2: Component Logic & Algorithm Fix,3.31 hours,https://github.com/infiniflow/ragflow/pull/4191
+ragflow,https://github.com/infiniflow/ragflow/issues/4164,F5: Environment & Documentation Maintenance,62.7 hours,https://github.com/infiniflow/ragflow/pull/4207
+ragflow,https://github.com/infiniflow/ragflow/issues/4163,F5: Environment & Documentation Maintenance,64.83 hours,https://github.com/infiniflow/ragflow/pull/4207
+ragflow,https://github.com/infiniflow/ragflow/issues/4160,F2: Component Logic & Algorithm Fix,0 hours,https://github.com/infiniflow/ragflow/pull/4110
+ragflow,https://github.com/infiniflow/ragflow/issues/4141,F2: Component Logic & Algorithm Fix,1.28 hours,https://github.com/infiniflow/ragflow/pull/4144
+ragflow,https://github.com/infiniflow/ragflow/issues/4126,F3: Defensive Check & Robustness Fix,1361.68 hours,https://github.com/infiniflow/ragflow/pull/4955
+ragflow,https://github.com/infiniflow/ragflow/issues/4120,F5: Environment & Documentation Maintenance,119.05 hours,https://github.com/infiniflow/ragflow/pull/4207
+ragflow,https://github.com/infiniflow/ragflow/issues/4109,F2: Component Logic & Algorithm Fix,1.94 hours,https://github.com/infiniflow/ragflow/pull/4110
+ragflow,https://github.com/infiniflow/ragflow/issues/4003,F2: Component Logic & Algorithm Fix,16.68 hours,https://github.com/infiniflow/ragflow/pull/4006
+ragflow,https://github.com/infiniflow/ragflow/issues/3910,F2: Component Logic & Algorithm Fix,260.15 hours,https://github.com/infiniflow/ragflow/pull/4059
+ragflow,https://github.com/infiniflow/ragflow/issues/3905,F3: Defensive Check & Robustness Fix,68.18 hours,https://github.com/infiniflow/ragflow/pull/3931
+ragflow,https://github.com/infiniflow/ragflow/issues/3883,F2: Component Logic & Algorithm Fix,93.72 hours,https://github.com/infiniflow/ragflow/pull/3936
+ragflow,https://github.com/infiniflow/ragflow/issues/3820,F2: Component Logic & Algorithm Fix,78.45 hours,https://github.com/infiniflow/ragflow/pull/3903
+ragflow,https://github.com/infiniflow/ragflow/issues/3816,F1: Data Interaction & Mapping Fix,3.85 hours,https://github.com/infiniflow/ragflow/pull/3818
+ragflow,https://github.com/infiniflow/ragflow/issues/3814,F2: Component Logic & Algorithm Fix,12.7 hours,https://github.com/infiniflow/ragflow/pull/3821
+ragflow,https://github.com/infiniflow/ragflow/issues/3811,F5: Environment & Documentation Maintenance,357.24 hours,https://github.com/infiniflow/infinity/pull/2376
+ragflow,https://github.com/infiniflow/ragflow/issues/3772,F1: Data Interaction & Mapping Fix,35.62 hours,https://github.com/infiniflow/ragflow/pull/3784
+ragflow,https://github.com/infiniflow/ragflow/issues/3729,F1: Data Interaction & Mapping Fix,27.09 hours,https://github.com/infiniflow/ragflow/pull/3763
+ragflow,https://github.com/infiniflow/ragflow/issues/3700,F1: Data Interaction & Mapping Fix,176.72 hours,https://github.com/infiniflow/ragflow/pull/3866
+ragflow,https://github.com/infiniflow/ragflow/issues/3696,F3: Defensive Check & Robustness Fix,303.38 hours,https://github.com/infiniflow/ragflow/pull/3953
+ragflow,https://github.com/infiniflow/ragflow/issues/3679,F2: Component Logic & Algorithm Fix,25.63 hours,https://github.com/infiniflow/ragflow/pull/3709
+ragflow,https://github.com/infiniflow/ragflow/issues/3657,F6: Lifecycle & Resource Scheduling,167.42 hours,https://github.com/infiniflow/ragflow/pull/3825
+ragflow,https://github.com/infiniflow/ragflow/issues/3623,F3: Defensive Check & Robustness Fix,3.21 hours,https://github.com/infiniflow/ragflow/pull/3627
+ragflow,https://github.com/infiniflow/ragflow/issues/3596,F1: Data Interaction & Mapping Fix,0 hours,https://github.com/infiniflow/ragflow/pull/3502
+ragflow,https://github.com/infiniflow/ragflow/issues/3570,F2: Component Logic & Algorithm Fix,8.14 hours,https://github.com/infiniflow/ragflow/pull/3581
+ragflow,https://github.com/infiniflow/ragflow/issues/3538,F2: Component Logic & Algorithm Fix,11.9 hours,https://github.com/infiniflow/ragflow/pull/3546
+ragflow,https://github.com/infiniflow/ragflow/issues/3384,F2: Component Logic & Algorithm Fix,17.76 hours,https://github.com/infiniflow/ragflow/pull/3392
+ragflow,https://github.com/infiniflow/ragflow/issues/3299,F3: Defensive Check & Robustness Fix,67.09 hours,https://github.com/infiniflow/ragflow/pull/3328
+ragflow,https://github.com/infiniflow/ragflow/issues/3273,F3: Defensive Check & Robustness Fix,13.06 hours,https://github.com/infiniflow/ragflow/pull/3279
+ragflow,https://github.com/infiniflow/ragflow/issues/3263,F1: Data Interaction & Mapping Fix,142.9 hours,https://github.com/infiniflow/ragflow/pull/3351
+ragflow,https://github.com/infiniflow/ragflow/issues/3253,F1: Data Interaction & Mapping Fix,5.61 hours,https://github.com/infiniflow/ragflow/pull/3262
+ragflow,https://github.com/infiniflow/ragflow/issues/3173,F3: Defensive Check & Robustness Fix,21.66 hours,https://github.com/infiniflow/ragflow/pull/3199
+ragflow,https://github.com/infiniflow/ragflow/issues/3153,F1: Data Interaction & Mapping Fix,63.72 hours,https://github.com/infiniflow/ragflow/pull/3169
+ragflow,https://github.com/infiniflow/ragflow/issues/3151,F1: Data Interaction & Mapping Fix,64.4 hours,https://github.com/infiniflow/ragflow/pull/3169
+ragflow,https://github.com/infiniflow/ragflow/issues/2997,F3: Defensive Check & Robustness Fix,846.19 hours,https://github.com/infiniflow/ragflow/pull/3710
+ragflow,https://github.com/infiniflow/ragflow/issues/2948,F1: Data Interaction & Mapping Fix,1.02 hours,https://github.com/infiniflow/ragflow/pull/2949
+ragflow,https://github.com/infiniflow/ragflow/issues/2794,F2: Component Logic & Algorithm Fix,5.32 hours,https://github.com/infiniflow/ragflow/pull/2802
+ragflow,https://github.com/infiniflow/ragflow/issues/2749,F1: Data Interaction & Mapping Fix,65.18 hours,https://github.com/infiniflow/ragflow/pull/2799
+ragflow,https://github.com/infiniflow/ragflow/issues/2739,F1: Data Interaction & Mapping Fix,4.06 hours,https://github.com/infiniflow/ragflow/pull/2740
+ragflow,https://github.com/infiniflow/ragflow/issues/2720,F1: Data Interaction & Mapping Fix,64.93 hours,https://github.com/infiniflow/ragflow/pull/2738
+ragflow,https://github.com/infiniflow/ragflow/issues/2575,F2: Component Logic & Algorithm Fix,27.74 hours,https://github.com/infiniflow/ragflow/pull/2601
+ragflow,https://github.com/infiniflow/ragflow/issues/2552,F1: Data Interaction & Mapping Fix,0.21 hours,https://github.com/infiniflow/ragflow/pull/2553
+ragflow,https://github.com/infiniflow/ragflow/issues/2545,F1: Data Interaction & Mapping Fix,2.24 hours,https://github.com/infiniflow/ragflow/pull/2549
+ragflow,https://github.com/infiniflow/ragflow/issues/2506,F4: Static Definition & Prompt Tuning,0.73 hours,https://github.com/infiniflow/ragflow/pull/2510
+ragflow,https://github.com/infiniflow/ragflow/issues/2463,F3: Defensive Check & Robustness Fix,1825.8 hours,https://github.com/infiniflow/ragflow/pull/3792
+ragflow,https://github.com/infiniflow/ragflow/issues/2402,F3: Defensive Check & Robustness Fix,40.99 hours,https://github.com/infiniflow/ragflow/pull/2431
+ragflow,https://github.com/infiniflow/ragflow/issues/2362,F2: Component Logic & Algorithm Fix,222.37 hours,https://github.com/infiniflow/ragflow/pull/2520
+ragflow,https://github.com/infiniflow/ragflow/issues/2359,F2: Component Logic & Algorithm Fix,16.25 hours,https://github.com/infiniflow/ragflow/pull/2364
+ragflow,https://github.com/infiniflow/ragflow/issues/2270,F1: Data Interaction & Mapping Fix,16.76 hours,https://github.com/infiniflow/ragflow/pull/2273
+ragflow,https://github.com/infiniflow/ragflow/issues/2231,F4: Static Definition & Prompt Tuning,121.01 hours,https://github.com/infiniflow/ragflow/pull/2313
+ragflow,https://github.com/infiniflow/ragflow/issues/2198,F1: Data Interaction & Mapping Fix,20.53 hours,https://github.com/infiniflow/ragflow/pull/2215
+ragflow,https://github.com/infiniflow/ragflow/issues/2085,F1: Data Interaction & Mapping Fix,27.56 hours,https://github.com/infiniflow/ragflow/pull/2096
+ragflow,https://github.com/infiniflow/ragflow/issues/1968,F4: Static Definition & Prompt Tuning,0 hours,https://github.com/infiniflow/ragflow/pull/1956
+ragflow,https://github.com/infiniflow/ragflow/issues/1958,F4: Static Definition & Prompt Tuning,20.12 hours,https://github.com/infiniflow/ragflow/pull/1972
+ragflow,https://github.com/infiniflow/ragflow/issues/1861,F4: Static Definition & Prompt Tuning,4.23 hours,https://github.com/infiniflow/ragflow/pull/1869
+ragflow,https://github.com/infiniflow/ragflow/issues/1848,F2: Component Logic & Algorithm Fix,0.98 hours,https://github.com/infiniflow/ragflow/pull/1851
+ragflow,https://github.com/infiniflow/ragflow/issues/1835,F2: Component Logic & Algorithm Fix,11.02 hours,https://github.com/infiniflow/ragflow/pull/1839
+ragflow,https://github.com/infiniflow/ragflow/issues/1800,F1: Data Interaction & Mapping Fix,16.88 hours,https://github.com/infiniflow/ragflow/pull/1806
+ragflow,https://github.com/infiniflow/ragflow/issues/1769,F1: Data Interaction & Mapping Fix,2877.57 hours,https://github.com/infiniflow/ragflow/pull/3744
+ragflow,https://github.com/infiniflow/ragflow/issues/1726,F2: Component Logic & Algorithm Fix,60.52 hours,https://github.com/infiniflow/ragflow/pull/1732
+ragflow,https://github.com/infiniflow/ragflow/issues/1704,F3: Defensive Check & Robustness Fix,91.17 hours,https://github.com/infiniflow/ragflow/pull/1715
+ragflow,https://github.com/infiniflow/ragflow/issues/1627,F2: Component Logic & Algorithm Fix,23.21 hours,https://github.com/infiniflow/ragflow/pull/1642
+ragflow,https://github.com/infiniflow/ragflow/issues/1522,F1: Data Interaction & Mapping Fix,16.03 hours,https://github.com/infiniflow/ragflow/pull/1527
+ragflow,https://github.com/infiniflow/ragflow/issues/1475,F3: Defensive Check & Robustness Fix,5550.19 hours,https://github.com/infiniflow/ragflow/pull/5482
+ragflow,https://github.com/infiniflow/ragflow/issues/1472,F2: Component Logic & Algorithm Fix,16.26 hours,https://github.com/infiniflow/ragflow/pull/1487
+ragflow,https://github.com/infiniflow/ragflow/issues/1407,F2: Component Logic & Algorithm Fix,414.73 hours,https://github.com/infiniflow/ragflow/pull/1700
+ragflow,https://github.com/infiniflow/ragflow/issues/1402,F2: Component Logic & Algorithm Fix,190.98 hours,https://github.com/infiniflow/ragflow/pull/1512
+ragflow,https://github.com/infiniflow/ragflow/issues/1395,F4: Static Definition & Prompt Tuning,60.64 hours,https://github.com/infiniflow/ragflow/pull/1396
+ragflow,https://github.com/infiniflow/ragflow/issues/1288,F6: Lifecycle & Resource Scheduling,3.54 hours,https://github.com/infiniflow/ragflow/pull/1292
+ragflow,https://github.com/infiniflow/ragflow/issues/1210,F3: Defensive Check & Robustness Fix,699.31 hours,https://github.com/infiniflow/ragflow/pull/1590
+ragflow,https://github.com/infiniflow/ragflow/issues/1159,F1: Data Interaction & Mapping Fix,138.67 hours,https://github.com/infiniflow/ragflow/pull/1214
+ragflow,https://github.com/infiniflow/ragflow/issues/994,F2: Component Logic & Algorithm Fix,17.78 hours,https://github.com/infiniflow/ragflow/pull/1004
+ragflow,https://github.com/infiniflow/ragflow/issues/991,F2: Component Logic & Algorithm Fix,27.92 hours,https://github.com/infiniflow/ragflow/pull/1013
+ragflow,https://github.com/infiniflow/ragflow/issues/980,F6: Lifecycle & Resource Scheduling,14.26 hours,https://github.com/infiniflow/ragflow/pull/985
+ragflow,https://github.com/infiniflow/ragflow/issues/963,F3: Defensive Check & Robustness Fix,24.62 hours,https://github.com/infiniflow/ragflow/pull/986
+ragflow,https://github.com/infiniflow/ragflow/issues/922,F1: Data Interaction & Mapping Fix,46.45 hours,https://github.com/infiniflow/ragflow/pull/928
+ragflow,https://github.com/infiniflow/ragflow/issues/834,F2: Component Logic & Algorithm Fix,21.37 hours,https://github.com/infiniflow/ragflow/pull/840
+ragflow,https://github.com/infiniflow/ragflow/issues/651,F2: Component Logic & Algorithm Fix,1.76 hours,https://github.com/infiniflow/ragflow/pull/653
+ragflow,https://github.com/infiniflow/ragflow/issues/509,F1: Data Interaction & Mapping Fix,0.5 hours,https://github.com/infiniflow/ragflow/pull/510
+ragflow,https://github.com/infiniflow/ragflow/issues/502,F2: Component Logic & Algorithm Fix,0.72 hours,https://github.com/infiniflow/ragflow/pull/504
+ragflow,https://github.com/infiniflow/ragflow/issues/477,F3: Defensive Check & Robustness Fix,4.57 hours,https://github.com/infiniflow/ragflow/pull/486
+ragflow,https://github.com/infiniflow/ragflow/issues/436,F3: Defensive Check & Robustness Fix,13.59 hours,https://github.com/infiniflow/ragflow/pull/440
+ragflow,https://github.com/infiniflow/ragflow/issues/423,F3: Defensive Check & Robustness Fix,0.76 hours,https://github.com/infiniflow/ragflow/pull/424
+ragflow,https://github.com/infiniflow/ragflow/issues/265,F1: Data Interaction & Mapping Fix,8.75 hours,https://github.com/infiniflow/ragflow/pull/268
+ragflow,https://github.com/infiniflow/ragflow/issues/209,F1: Data Interaction & Mapping Fix,0.49 hours,https://github.com/infiniflow/ragflow/pull/210
+FastGPT,https://github.com/labring/FastGPT/issues/4906,F1: Data Interaction & Mapping Fix,12.08 hours,https://github.com/labring/FastGPT/pull/4914
+FastGPT,https://github.com/labring/FastGPT/issues/4840,F2: Component Logic & Algorithm Fix,24.27 hours,https://github.com/labring/FastGPT/pull/4853
+FastGPT,https://github.com/labring/FastGPT/issues/4829,F2: Component Logic & Algorithm Fix,629.06 hours,https://github.com/labring/FastGPT/pull/5000
+FastGPT,https://github.com/labring/FastGPT/issues/4481,F2: Component Logic & Algorithm Fix,207.51 hours,https://github.com/labring/FastGPT/pull/4576
+FastGPT,https://github.com/labring/FastGPT/issues/3705,F2: Component Logic & Algorithm Fix,45.18 hours,https://github.com/labring/FastGPT/pull/3720
+FastGPT,https://github.com/labring/FastGPT/issues/3695,F2: Component Logic & Algorithm Fix,26.34 hours,https://github.com/labring/FastGPT/pull/3706
+FastGPT,https://github.com/labring/FastGPT/issues/3694,F1: Data Interaction & Mapping Fix,26.64 hours,https://github.com/labring/FastGPT/pull/3706
+FastGPT,https://github.com/labring/FastGPT/issues/2918,F2: Component Logic & Algorithm Fix,6.51 hours,https://github.com/labring/FastGPT/pull/2903
+FastGPT,https://github.com/labring/FastGPT/issues/2899,F2: Component Logic & Algorithm Fix,54.03 hours,https://github.com/labring/FastGPT/pull/2903
+FastGPT,https://github.com/labring/FastGPT/issues/2895,F2: Component Logic & Algorithm Fix,251.5 hours,https://github.com/labring/FastGPT/pull/2968
+FastGPT,https://github.com/labring/FastGPT/issues/1772,F6: Lifecycle & Resource Scheduling,97.35 hours,https://github.com/labring/FastGPT/pull/1799
+FastGPT,https://github.com/labring/FastGPT/issues/1704,F6: Lifecycle & Resource Scheduling,179.26 hours,https://github.com/labring/FastGPT/pull/1754
+FastGPT,https://github.com/labring/FastGPT/issues/1253,F1: Data Interaction & Mapping Fix,156.81 hours,https://github.com/labring/FastGPT/pull/1291
+FastGPT,https://github.com/labring/FastGPT/issues/1038,F1: Data Interaction & Mapping Fix,21.53 hours,https://github.com/labring/FastGPT/pull/1040
+FastGPT,https://github.com/labring/FastGPT/issues/961,F1: Data Interaction & Mapping Fix,384.23 hours,https://github.com/labring/FastGPT/pull/1053
+FastGPT,https://github.com/labring/FastGPT/issues/760,F4: Static Definition & Prompt Tuning,284.62 hours,https://github.com/labring/FastGPT/pull/804
+FastGPT,https://github.com/labring/FastGPT/issues/652,F3: Defensive Check & Robustness Fix,159.22 hours,https://github.com/labring/FastGPT/pull/652
+FastGPT,https://github.com/labring/FastGPT/issues/515,F2: Component Logic & Algorithm Fix,20.17 hours,https://github.com/labring/FastGPT/pull/518
+FastGPT,https://github.com/labring/FastGPT/issues/338,F4: Static Definition & Prompt Tuning,102.44 hours,https://github.com/sxf-xiongtao/FastGPT/commit/9d59f61baf764071905fac9d6f8d4a8c9778795e
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1596,F2: Component Logic & Algorithm Fix,16.21 hours,https://github.com/logancyang/obsidian-copilot/pull/1599
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1563,F2: Component Logic & Algorithm Fix,247.26 hours,https://github.com/logancyang/obsidian-copilot/pull/1592
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1422,F2: Component Logic & Algorithm Fix,445.35 hours,https://github.com/logancyang/obsidian-copilot/pull/1460
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1392,F4: Static Definition & Prompt Tuning,19.5 hours,https://github.com/logancyang/obsidian-copilot/pull/1396
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1270,F3: Defensive Check & Robustness Fix,16.71 hours,https://github.com/logancyang/obsidian-copilot/pull/1274
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1247,F4: Static Definition & Prompt Tuning,151.36 hours,https://github.com/logancyang/obsidian-copilot/pull/1272
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1233,F2: Component Logic & Algorithm Fix,29.88 hours,https://github.com/logancyang/obsidian-copilot/pull/1243
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/822,F4: Static Definition & Prompt Tuning,15.15 hours,https://github.com/logancyang/obsidian-copilot/pull/825
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/739,F2: Component Logic & Algorithm Fix,500.3 hours,https://github.com/logancyang/obsidian-copilot/pull/807
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/670,F3: Defensive Check & Robustness Fix,37.8 hours,https://github.com/logancyang/obsidian-copilot/pull/675
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/609,F1: Data Interaction & Mapping Fix,0 hours,https://github.com/logancyang/obsidian-copilot/pull/607
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/461,F2: Component Logic & Algorithm Fix,1662.04 hours,https://github.com/logancyang/obsidian-copilot/pull/495
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/360,F2: Component Logic & Algorithm Fix,3618.61 hours,https://github.com/logancyang/obsidian-copilot/pull/495
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/104,F2: Component Logic & Algorithm Fix,98.68 hours,https://github.com/logancyang/obsidian-copilot/pull/107
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/37,F2: Component Logic & Algorithm Fix,29.67 hours,https://github.com/logancyang/obsidian-copilot/pull/41
+graphrag,https://github.com/microsoft/graphrag/issues/1936,F1: Data Interaction & Mapping Fix,28.61 hours,https://github.com/microsoft/graphrag/pull/1942
+graphrag,https://github.com/microsoft/graphrag/issues/1825,F1: Data Interaction & Mapping Fix,286.35 hours,https://github.com/microsoft/graphrag/pull/1826
+graphrag,https://github.com/microsoft/graphrag/issues/1725,F3: Defensive Check & Robustness Fix,48.68 hours,https://github.com/microsoft/graphrag/pull/1730
+graphrag,https://github.com/microsoft/graphrag/issues/1673,F2: Component Logic & Algorithm Fix,1864.9 hours,https://github.com/microsoft/graphrag/pull/1841
+graphrag,https://github.com/microsoft/graphrag/issues/1642,F4: Static Definition & Prompt Tuning,37.44 hours,https://github.com/microsoft/graphrag/pull/1645
+graphrag,https://github.com/microsoft/graphrag/issues/1620,F2: Component Logic & Algorithm Fix,171.1 hours,https://github.com/microsoft/graphrag/pull/1593
+graphrag,https://github.com/microsoft/graphrag/issues/1538,F1: Data Interaction & Mapping Fix,370.29 hours,https://github.com/microsoft/graphrag/pull/1582
+graphrag,https://github.com/microsoft/graphrag/issues/1506,F1: Data Interaction & Mapping Fix,970.84 hours,https://github.com/microsoft/graphrag/pull/1593
+graphrag,https://github.com/microsoft/graphrag/issues/1499,F1: Data Interaction & Mapping Fix,134.79 hours,https://github.com/microsoft/graphrag/pull/1527
+graphrag,https://github.com/microsoft/graphrag/issues/1481,F1: Data Interaction & Mapping Fix,276.18 hours,https://github.com/microsoft/graphrag/pull/1508
+graphrag,https://github.com/microsoft/graphrag/issues/1355,F1: Data Interaction & Mapping Fix,1.19 hours,https://github.com/microsoft/graphrag/pull/1356
+graphrag,https://github.com/microsoft/graphrag/issues/1173,F2: Component Logic & Algorithm Fix,135.95 hours,https://github.com/microsoft/graphrag/pull/1218
+graphrag,https://github.com/microsoft/graphrag/issues/1135,F2: Component Logic & Algorithm Fix,64.72 hours,https://github.com/microsoft/graphrag/pull/1127
+graphrag,https://github.com/microsoft/graphrag/issues/1080,F1: Data Interaction & Mapping Fix,180.32 hours,https://github.com/microsoft/graphrag/pull/1116
+graphrag,https://github.com/microsoft/graphrag/issues/946,F1: Data Interaction & Mapping Fix,190.31 hours,https://github.com/microsoft/graphrag/pull/1015
+graphrag,https://github.com/microsoft/graphrag/issues/813,F3: Defensive Check & Robustness Fix,87.41 hours,https://github.com/microsoft/graphrag/pull/850
+graphrag,https://github.com/microsoft/graphrag/issues/796,F3: Defensive Check & Robustness Fix,546.1 hours,https://github.com/microsoft/graphrag/pull/1016
+graphrag,https://github.com/microsoft/graphrag/issues/789,F2: Component Logic & Algorithm Fix,875.12 hours,https://github.com/microsoft/graphrag/pull/1095
+graphrag,https://github.com/microsoft/graphrag/issues/676,F1: Data Interaction & Mapping Fix,166.72 hours,https://github.com/microsoft/graphrag/pull/677
+graphrag,https://github.com/microsoft/graphrag/issues/674,F1: Data Interaction & Mapping Fix,480.54 hours,https://github.com/microsoft/graphrag/pull/888
+graphrag,https://github.com/microsoft/graphrag/issues/615,F2: Component Logic & Algorithm Fix,189.45 hours,https://github.com/microsoft/graphrag/pull/734
+graphrag,https://github.com/microsoft/graphrag/issues/613,F2: Component Logic & Algorithm Fix,194.43 hours,https://github.com/microsoft/graphrag/pull/735
+graphrag,https://github.com/microsoft/graphrag/issues/599,F2: Component Logic & Algorithm Fix,1165.75 hours,https://github.com/microsoft/graphrag/pull/1065
+graphrag,https://github.com/microsoft/graphrag/issues/492,F2: Component Logic & Algorithm Fix,30.09 hours,https://github.com/microsoft/graphrag/pull/517
+graphrag,https://github.com/microsoft/graphrag/issues/383,F1: Data Interaction & Mapping Fix,5.03 hours,https://github.com/microsoft/graphrag/pull/373
+graphrag,https://github.com/microsoft/graphrag/issues/379,F1: Data Interaction & Mapping Fix,90.69 hours,https://github.com/microsoft/graphrag/pull/405
+graphrag,https://github.com/microsoft/graphrag/issues/367,F1: Data Interaction & Mapping Fix,18.46 hours,https://github.com/microsoft/graphrag/pull/373
+graphrag,https://github.com/microsoft/graphrag/issues/55,F6: Lifecycle & Resource Scheduling,379.78 hours,https://github.com/microsoft/graphrag/pull/156
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/123,F3: Defensive Check & Robustness Fix,33.34 hours,https://github.com/OSU-NLP-Group/HippoRAG/pull/120
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/76,F2: Component Logic & Algorithm Fix,276.49 hours,https://github.com/OSU-NLP-Group/HippoRAG/commit/2f05c2759e51c8959d606138d6df72e259e8f420
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/31,F2: Component Logic & Algorithm Fix,58.61 hours,https://github.com/OSU-NLP-Group/HippoRAG/pull/32
+quivr,https://github.com/QuivrHQ/quivr/issues/2794,F2: Component Logic & Algorithm Fix,192.89 hours,https://github.com/QuivrHQ/quivr/pull/2843
+quivr,https://github.com/QuivrHQ/quivr/issues/2782,F6: Lifecycle & Resource Scheduling,140.13 hours,https://github.com/QuivrHQ/quivr/pull/2795
+quivr,https://github.com/QuivrHQ/quivr/issues/2384,F5: Environment & Documentation Maintenance,34.21 hours,https://github.com/QuivrHQ/quivr/pull/2388
+quivr,https://github.com/QuivrHQ/quivr/issues/2270,F1: Data Interaction & Mapping Fix,156.96 hours,https://github.com/QuivrHQ/quivr/pull/2289
+quivr,https://github.com/QuivrHQ/quivr/issues/2267,F1: Data Interaction & Mapping Fix,178.54 hours,https://github.com/QuivrHQ/quivr/pull/2289
+quivr,https://github.com/QuivrHQ/quivr/issues/2204,F1: Data Interaction & Mapping Fix,404.52 hours,https://github.com/QuivrHQ/quivr/pull/2289
+quivr,https://github.com/QuivrHQ/quivr/issues/1690,F1: Data Interaction & Mapping Fix,7.37 hours,https://github.com/QuivrHQ/quivr/pull/1694
+quivr,https://github.com/QuivrHQ/quivr/issues/502,F2: Component Logic & Algorithm Fix,27.88 hours,https://github.com/QuivrHQ/quivr/pull/518
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/1040,F2: Component Logic & Algorithm Fix,69.41 hours,https://github.com/zylon-ai/private-gpt/pull/999
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/990,F6: Lifecycle & Resource Scheduling,651.74 hours,https://github.com/zylon-ai/private-gpt/pull/999
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/220,F2: Component Logic & Algorithm Fix,13.9 hours,https://github.com/zylon-ai/private-gpt/pull/224

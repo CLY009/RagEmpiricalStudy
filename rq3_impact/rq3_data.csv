@@ -1,0 +1,655 @@
+﻿System,Issue URL,Symptom Stage,Root Cause Stage,Root Cause Category,Diagnosis Gap,Fix Cost
+DocsGPT,https://github.com/arc53/DocsGPT/issues/1699,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,18.63 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/1697,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,1607.03 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/1400,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,1283.39 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/1340,Stage 3: Retrieval,Stage 0: System,Category B: User Misconfiguration,3,1561.69 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/1313,Stage 3: Retrieval,Stage 0: System,Category A: System Implementation Defect,3,26.86 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/948,Stage 3: Retrieval,Stage 0: System,Category A: System Implementation Defect,3,4071.39 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/945,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,1107.59 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/938,Stage 3: Retrieval,Stage 0: System,Category A: System Implementation Defect,3,220.09 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/932,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,13.39 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/931,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,5621.36 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/930,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,52.29 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/884,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,423.55 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/833,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,2759.89 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/800,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,49.3 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/745,Stage 5: Generation,Stage 3: Retrieval,Category B: User Misconfiguration,2,10043.44 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/562,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,149.78 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/344,Stage 3: Retrieval,Stage 1: Indexing,Category B: User Misconfiguration,2,148.87 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/276,Stage 3: Retrieval,Stage 0: System,Category A: System Implementation Defect,3,100.37 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/195,Stage 5: Generation,Stage 3: Retrieval,Category B: User Misconfiguration,2,2.17 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/179,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,1.1 hours
+DocsGPT,https://github.com/arc53/DocsGPT/issues/55,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,146.97 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2849,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,50.06 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2846,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,73.51 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2841,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,66.89 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2809,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,21.89 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2777,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,9.57 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2766,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,260.64 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2764,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,48.24 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2751,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,938.79 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2741,Stage 5: Generation,Stage 3: Retrieval,Category A: System Implementation Defect,2,1313.91 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2728,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,2.79 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2718,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,124.7 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2714,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,46.4 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2710,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,39.97 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2697,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,193.46 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2694,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,21.3 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2689,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,170.96 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2637,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,97.44 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2636,Stage 4: Post-Retrieval Processing,Stage 0: System,Category A: System Implementation Defect,4,47.09 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2607,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,56.89 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2595,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,169.15 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2576,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,184.1 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2562,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,41.93 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2554,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,20.84 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2495,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,19.66 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2475,Stage 5: Generation,Stage 3: Retrieval,Category A: System Implementation Defect,2,6.36 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2469,Stage 5: Generation,Stage 3: Retrieval,Category A: System Implementation Defect,2,324.29 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2468,Stage 3: Retrieval,Stage 1: Indexing,Category A: System Implementation Defect,2,71.95 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2458,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,93.93 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2444,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,56.85 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2439,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,13.72 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2437,Stage 0: System,Stage 1: Indexing,Category A: System Implementation Defect,1,76.84 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2430,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,0.21 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2422,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,110.09 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2418,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,141.71 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2417,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,219.32 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2415,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,70.54 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2400,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,22.18 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2399,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,209.52 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2391,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,6.03 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2353,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,0.7 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2344,Stage 4: Post-Retrieval Processing,Stage 4: Post-Retrieval Processing,Category A: System Implementation Defect,0,48.84 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2321,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,4150.73 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2315,Stage 5: Generation,Stage 0: System,Category B: User Misconfiguration,5,22.88 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2288,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,24.54 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2287,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,23.71 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2284,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,53.01 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2261,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,73.88 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2224,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,28.8 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2219,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,24.27 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2214,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,47.57 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2206,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,97.83 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2184,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,770.32 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2163,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,1006.74 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2140,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,0.22 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2136,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,4.77 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2116,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,104.1 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2068,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,241.75 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2065,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,103.23 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1990,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,0.9 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1751,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,14.63 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1748,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,1350.03 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1723,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,0.28 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1714,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,22.47 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1704,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,1073.67 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1707,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,7.96 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1669,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,44.6 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1660,Stage 5: Generation,Stage 1: Indexing,Category A: System Implementation Defect,4,1628.33 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1642,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,23.84 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1636,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,1042.28 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1621,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,71.57 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1600,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,20.98 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1581,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,12.39 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1571,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,22.2 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1562,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,70.46 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1546,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,240.89 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1523,Stage 4: Post-Retrieval Processing,Stage 4: Post-Retrieval Processing,Category A: System Implementation Defect,0,104.86 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1498,Stage 4: Post-Retrieval Processing,Stage 3: Retrieval,Category A: System Implementation Defect,1,13.37 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1462,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,924.7 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1459,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,952.93 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1453,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,0.79 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1441,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,1379.0 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1426,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,3318.51 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1394,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,19.4 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1390,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,5.16 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1389,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,977.77 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1352,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,468.54 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1307,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,6.01 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1243,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,244.32 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1240,Stage 5: Generation,Stage 0: System,Category B: User Misconfiguration,5,1257.18 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1210,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,43.75 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1160,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,895.25 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1143,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,4308.87 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1116,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,4.97 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1094,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,21.0 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1049,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,6.35 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1021,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,6.68 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/968,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,120.14 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/875,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,84.21 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/867,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,24.77 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/863,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,972.88 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/840,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,930.66 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/827,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,924.17 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/821,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,1427.87 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/800,Stage 3: Retrieval,Stage 1: Indexing,Category A: System Implementation Defect,2,100.64 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/798,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,1235.79 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/766,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,140.88 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/756,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,150.6 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/719,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,62.87 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/660,Stage 3: Retrieval,Stage 1: Indexing,Category A: System Implementation Defect,2,139.99 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/655,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,8.95 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/654,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,3592.02 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/644,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,122.8 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/630,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,3998.16 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/617,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,64.41 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/597,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,4262.28 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/563,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,716.62 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/561,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,6916.89 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/443,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,253.97 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/301,Stage 5: Generation,Stage 3: Retrieval,Category B: User Misconfiguration,2,3627.81 hours
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/252,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,4034.96 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1880,Stage 5: Generation,Stage 0: System,Category B: User Misconfiguration,5,25.06 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1858,Stage 4: Post-Retrieval Processing,Stage 0: System,Category B: User Misconfiguration,4,1.51 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1813,Stage 4: Post-Retrieval Processing,Stage 4: Post-Retrieval Processing,Category A: System Implementation Defect,0,4.59 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1800,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,11.01 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1798,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,13.48 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1789,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,65.12 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1785,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,31.73 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1745,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,0 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1742,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,38.96 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1731,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,148.19 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1687,Stage 5: Generation,Stage 0: System,Category B: User Misconfiguration,5,812.99 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1668,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,963.75 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1666,Stage 5: Generation,Stage 1: Indexing,Category A: System Implementation Defect,4,464.97 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1630,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,558.63 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1613,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,1420.71 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1594,Stage 0: System,Stage 1: Indexing,Category A: System Implementation Defect,1,921.06 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1574,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,29.65 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1573,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,1615.75 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1569,Stage 0: System,Stage 1: Indexing,Category B: User Misconfiguration,1,12.69 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1567,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,12.24 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1565,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,23.81 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1560,Stage 4: Post-Retrieval Processing,Stage 0: System,Category B: User Misconfiguration,4,1667.35 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1536,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,2047.93 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1509,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,1867.19 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1498,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,1930.39 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1495,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,229.13 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1438,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,19.67 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1429,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,0.91 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1386,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,8.89 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1327,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,2433.36 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1321,Stage 5: Generation,Stage 0: System,Category B: User Misconfiguration,5,4.82 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1306,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,2476.75 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1251,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,672.65 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1211,Stage 3: Retrieval,Stage 0: System,Category B: User Misconfiguration,3,2737.28 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1241,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,102.13 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1189,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,656.74 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1179,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,2811.13 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1176,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,2814.93 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1155,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,2879.29 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1144,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,2913.2 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1099,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,6.58 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1094,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,3031.89 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1089,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,3062.58 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1088,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,56.04 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1086,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,88.63 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1082,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,179.92 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1076,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,100.73 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1059,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,14.36 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1044,Stage 2: Query Transformation,Stage 2: Query Transformation,Category A: System Implementation Defect,0,3.08 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/951,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,103.16 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/945,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,3471.61 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/936,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,3481.36 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/915,Stage 3: Retrieval,Stage 0: System,Category A: System Implementation Defect,3,3554.87 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/838,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,3630.93 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/767,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,99.21 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/680,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,952.53 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/677,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,4089.04 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/676,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,4089.14 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/625,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,18.02 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/606,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,737.03 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/249,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,190.51 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/21,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,4.06 hours
+LightRAG,https://github.com/HKUDS/LightRAG/issues/11,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,13.79 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/9089,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,0 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8965,Stage 5: Generation,Stage 0: System,Category B: User Misconfiguration,5,143.26 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8960,Stage 0: System,Stage 1: Indexing,Category A: System Implementation Defect,1,40.48 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8926,Stage 5: Generation,Stage 0: System,Category B: User Misconfiguration,5,0 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8909,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,0 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8840,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,2.34 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8804,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,93.21 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8719,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,78.82 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8630,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,162.15 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8656,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,17.08 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8602,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,27.28 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8588,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,0 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8556,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,63.5 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8503,Stage 0: System,Stage 1: Indexing,Category A: System Implementation Defect,1,7.55 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8497,Stage 3: Retrieval,Stage 3: Retrieval,Category B: User Misconfiguration,0,1.39 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8467,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,58.47 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8462,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,48.15 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8455,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,0 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8443,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,13.68 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8419,Stage 3: Retrieval,Stage 0: System,Category A: System Implementation Defect,3,0.13 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8369,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,24.29 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8360,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,25.01 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8319,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,169.8 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8297,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,92.23 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8227,Stage 0: System,Stage 1: Indexing,Category A: System Implementation Defect,1,21.71 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8226,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,91.14 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8208,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,4.19 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8193,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,15.38 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8189,Stage 2: Query Transformation,Stage 2: Query Transformation,Category A: System Implementation Defect,0,19.66 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8143,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,21.62 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8134,Stage 3: Retrieval,Stage 1: Indexing,Category A: System Implementation Defect,2,2.16 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8109,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,68.89 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8097,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,7.3 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8059,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,13.69 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8057,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,12.11 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8033,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,11.3 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/8025,Stage 0: System,Stage 1: Indexing,Category B: User Misconfiguration,1,0.14 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7980,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,92.84 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7952,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,1.77 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7908,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,21.23 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7897,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,48.47 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7879,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,22.02 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7868,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,1.44 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7830,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,43.45 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7824,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,142.15 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7803,Stage 4: Post-Retrieval Processing,Stage 0: System,Category B: User Misconfiguration,4,17.43 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7791,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,291.37 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7790,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,26.99 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7725,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,31.29 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7702,Stage 5: Generation,Stage 3: Retrieval,Category B: User Misconfiguration,2,0 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7667,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,671.82 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7644,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,144.7 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7592,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,14.35 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7567,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,57.77 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7556,Stage 3: Retrieval,Stage 3: Retrieval,Category B: User Misconfiguration,0,0.49 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7542,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,1160.84 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7518,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,43.65 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7466,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,26.8 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7449,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,2.23 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7428,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,1.67 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7412,Stage 2: Query Transformation,Stage 0: System,Category A: System Implementation Defect,2,160.6 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7387,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,0.49 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7371,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,6.07 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7347,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,23.63 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7321,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,48.79 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7282,Stage 2: Query Transformation,Stage 2: Query Transformation,Category B: User Misconfiguration,0,327.61 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7277,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,16.7 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7249,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,8.93 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7237,Stage 3: Retrieval,Stage 3: Retrieval,Category B: User Misconfiguration,0,21.28 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7198,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,0.36 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7184,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,25.82 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7153,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,1.07 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7095,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,656.28 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/7019,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,14.88 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/6945,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,0.03 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/6931,Stage 0: System,Stage 5: Generation,Category A: System Implementation Defect,5,0 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/6862,Stage 0: System,Stage 4: Post-Retrieval Processing,Category B: User Misconfiguration,4,37.14 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/6835,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,2.99 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/6803,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,145.71 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/6786,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,95.33 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/6784,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,97.03 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/6752,Stage 3: Retrieval,Stage 0: System,Category A: System Implementation Defect,3,3.65 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/6741,Stage 4: Post-Retrieval Processing,Stage 4: Post-Retrieval Processing,Category A: System Implementation Defect,0,218.46 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/6685,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,1059.54 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/6653,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,70.17 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/6624,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,11.27 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/6607,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,145.34 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/6584,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,0.8 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/6570,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,21.31 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/6491,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,31.53 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/6308,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,30.44 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/6066,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,6.75 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/6031,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,19.24 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/5839,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,18.31 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/5761,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,0.93 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/5713,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,169.99 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/5700,Stage 3: Retrieval,Stage 2: Query Transformation,Category B: User Misconfiguration,1,4.86 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/5600,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,18.85 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/5575,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,14.51 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/5418,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,768.03 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/5382,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,26.25 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/5346,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,101.22 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/5261,Stage 0: System,Stage 4: Post-Retrieval Processing,Category A: System Implementation Defect,4,25.81 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/5166,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,1.75 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4968,Stage 4: Post-Retrieval Processing,Stage 4: Post-Retrieval Processing,Category A: System Implementation Defect,0,68.14 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4918,Stage 0: System,Stage 3: Retrieval,Category A: System Implementation Defect,3,325.33 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4885,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,56.29 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4749,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,38.75 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4678,Stage 0: System,Stage 5: Generation,Category B: User Misconfiguration,5,42.79 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4664,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,209.25 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4647,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,2.71 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4633,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,42.11 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4567,Stage 0: System,Stage 1: Indexing,Category A: System Implementation Defect,1,62.9 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4464,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,19.7 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4379,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,721.77 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4374,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,9.62 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4331,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,0.01 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4278,Stage 1: Indexing,Stage 5: Generation,Category B: User Misconfiguration,4,22.52 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4230,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,322.57 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4189,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,16.98 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4180,Stage 0: System,Stage 1: Indexing,Category A: System Implementation Defect,1,3.31 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4164,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,62.7 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4163,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,64.83 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4160,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,0 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4141,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,1.28 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4126,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,1361.68 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4124,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,24.71 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4122,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,1172.94 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4120,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,119.05 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4109,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,1.94 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/4003,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,16.68 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3910,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,260.15 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3905,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,68.18 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3883,Stage 3: Retrieval,Stage 1: Indexing,Category A: System Implementation Defect,2,93.72 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3820,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,78.45 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3816,Stage 3: Retrieval,Stage 1: Indexing,Category A: System Implementation Defect,2,3.85 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3814,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,12.7 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3811,Stage 3: Retrieval,Stage 0: System,Category A: System Implementation Defect,3,357.24 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3799,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,0.67 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3772,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,35.62 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3729,Stage 0: System,Stage 1: Indexing,Category A: System Implementation Defect,1,27.09 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3700,Stage 0: System,Stage 4: Post-Retrieval Processing,Category A: System Implementation Defect,4,176.72 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3696,Stage 3: Retrieval,Stage 2: Query Transformation,Category A: System Implementation Defect,1,303.38 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3679,Stage 0: System,Stage 1: Indexing,Category A: System Implementation Defect,1,25.63 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3657,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,167.42 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3623,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,3.21 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3596,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,0 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3570,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,8.14 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3538,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,11.9 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3384,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,17.76 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3308,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,89.93 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3299,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,67.09 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3273,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,13.06 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3263,Stage 0: System,Stage 5: Generation,Category A: System Implementation Defect,5,142.9 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3253,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,5.61 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3173,Stage 3: Retrieval,Stage 0: System,Category A: System Implementation Defect,3,21.66 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3153,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,63.72 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3151,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,64.4 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/3024,Stage 3: Retrieval,Stage 3: Retrieval,Category B: User Misconfiguration,0,898.76 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2997,Stage 3: Retrieval,Stage 1: Indexing,Category A: System Implementation Defect,2,846.19 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2948,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,1.02 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2794,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,5.32 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2765,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,1254.27 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2749,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,65.18 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2739,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,4.06 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2720,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,64.93 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2575,Stage 4: Post-Retrieval Processing,Stage 4: Post-Retrieval Processing,Category A: System Implementation Defect,0,27.74 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2552,Stage 4: Post-Retrieval Processing,Stage 4: Post-Retrieval Processing,Category A: System Implementation Defect,0,0.21 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2545,Stage 3: Retrieval,Stage 2: Query Transformation,Category A: System Implementation Defect,1,2.24 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2506,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,0.73 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2463,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,1825.8 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2402,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,40.99 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2362,Stage 3: Retrieval,Stage 2: Query Transformation,Category A: System Implementation Defect,1,222.37 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2359,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,16.25 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2270,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,16.76 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2231,Stage 4: Post-Retrieval Processing,Stage 4: Post-Retrieval Processing,Category A: System Implementation Defect,0,121.01 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2198,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,20.53 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2085,Stage 0: System,Stage 1: Indexing,Category A: System Implementation Defect,1,27.56 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/2053,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,1175.93 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1968,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,0 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1958,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,20.12 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1861,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,4.23 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1848,Stage 0: System,Stage 5: Generation,Category A: System Implementation Defect,5,0.98 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1835,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,11.02 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1800,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,16.88 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1769,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,2877.57 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1726,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,60.52 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1704,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,91.17 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1627,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,23.21 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1522,Stage 0: System,Stage 4: Post-Retrieval Processing,Category A: System Implementation Defect,4,16.03 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1475,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,5550.19 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1472,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,16.26 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1436,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,3394.71 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1407,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,414.73 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1403,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,3435.25 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1402,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,190.98 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1395,Stage 4: Post-Retrieval Processing,Stage 4: Post-Retrieval Processing,Category A: System Implementation Defect,0,60.64 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1340,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,20.45 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1288,Stage 0: System,Stage 1: Indexing,Category A: System Implementation Defect,1,3.54 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1250,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,3746.7 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1210,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,699.31 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/1159,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,138.67 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/995,Stage 0: System,Stage 1: Indexing,Category B: User Misconfiguration,1,16.33 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/994,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,17.78 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/991,Stage 4: Post-Retrieval Processing,Stage 4: Post-Retrieval Processing,Category A: System Implementation Defect,0,27.92 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/980,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,14.26 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/963,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,24.62 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/922,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,46.45 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/834,Stage 3: Retrieval,Stage 1: Indexing,Category A: System Implementation Defect,2,21.37 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/651,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,1.76 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/509,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,0.5 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/502,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,0.72 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/477,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,4.57 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/436,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,13.59 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/423,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,0.76 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/265,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,8.75 hours
+ragflow,https://github.com/infiniflow/ragflow/issues/209,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,0.49 hours
+FastGPT,https://github.com/labring/FastGPT/issues/4906,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,12.08 hours
+FastGPT,https://github.com/labring/FastGPT/issues/4879,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,97.09 hours
+FastGPT,https://github.com/labring/FastGPT/issues/4846,Stage 4: Post-Retrieval Processing,Stage 4: Post-Retrieval Processing,Category B: User Misconfiguration,0,673.73 hours
+FastGPT,https://github.com/labring/FastGPT/issues/4840,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,24.27 hours
+FastGPT,https://github.com/labring/FastGPT/issues/4829,Stage 5: Generation,Stage 2: Query Transformation,Category A: System Implementation Defect,3,629.06 hours
+FastGPT,https://github.com/labring/FastGPT/issues/4770,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,1.19 hours
+FastGPT,https://github.com/labring/FastGPT/issues/4738,Stage 2: Query Transformation,Stage 2: Query Transformation,Category B: User Misconfiguration,0,125.19 hours
+FastGPT,https://github.com/labring/FastGPT/issues/4653,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,31.9 hours
+FastGPT,https://github.com/labring/FastGPT/issues/4481,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,207.51 hours
+FastGPT,https://github.com/labring/FastGPT/issues/4255,Stage 4: Post-Retrieval Processing,Stage 4: Post-Retrieval Processing,Category A: System Implementation Defect,0,531.31 hours
+FastGPT,https://github.com/labring/FastGPT/issues/4034,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,189.83 hours
+FastGPT,https://github.com/labring/FastGPT/issues/4023,Stage 2: Query Transformation,Stage 2: Query Transformation,Category B: User Misconfiguration,0,75.24 hours
+FastGPT,https://github.com/labring/FastGPT/issues/3835,Stage 5: Generation,Stage 1: Indexing,Category B: User Misconfiguration,4,466.73 hours
+FastGPT,https://github.com/labring/FastGPT/issues/3793,Stage 3: Retrieval,Stage 1: Indexing,Category B: User Misconfiguration,2,76.72 hours
+FastGPT,https://github.com/labring/FastGPT/issues/3791,Stage 2: Query Transformation,Stage 2: Query Transformation,Category B: User Misconfiguration,0,245.12 hours
+FastGPT,https://github.com/labring/FastGPT/issues/3705,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,45.18 hours
+FastGPT,https://github.com/labring/FastGPT/issues/3695,Stage 3: Retrieval,Stage 0: System,Category A: System Implementation Defect,3,26.34 hours
+FastGPT,https://github.com/labring/FastGPT/issues/3694,Stage 0: System,Stage 4: Post-Retrieval Processing,Category A: System Implementation Defect,4,26.64 hours
+FastGPT,https://github.com/labring/FastGPT/issues/3474,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,89.49 hours
+FastGPT,https://github.com/labring/FastGPT/issues/3017,Stage 2: Query Transformation,Stage 2: Query Transformation,Category B: User Misconfiguration,0,354.43 hours
+FastGPT,https://github.com/labring/FastGPT/issues/2942,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,0.95 hours
+FastGPT,https://github.com/labring/FastGPT/issues/2929,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,222.33 hours
+FastGPT,https://github.com/labring/FastGPT/issues/2918,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,6.51 hours
+FastGPT,https://github.com/labring/FastGPT/issues/2899,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,54.03 hours
+FastGPT,https://github.com/labring/FastGPT/issues/2895,Stage 3: Retrieval,Stage 1: Indexing,Category A: System Implementation Defect,2,251.5 hours
+FastGPT,https://github.com/labring/FastGPT/issues/2780,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,45.63 hours
+FastGPT,https://github.com/labring/FastGPT/issues/2770,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,91.45 hours
+FastGPT,https://github.com/labring/FastGPT/issues/2662,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,42.32 hours
+FastGPT,https://github.com/labring/FastGPT/issues/2519,Stage 2: Query Transformation,Stage 2: Query Transformation,Category B: User Misconfiguration,0,0.81 hours
+FastGPT,https://github.com/labring/FastGPT/issues/2416,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,1418.81 hours
+FastGPT,https://github.com/labring/FastGPT/issues/2289,Stage 5: Generation,Stage 0: System,Category B: User Misconfiguration,5,2.08 hours
+FastGPT,https://github.com/labring/FastGPT/issues/2105,Stage 5: Generation,Stage 0: System,Category B: User Misconfiguration,5,20.98 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1933,Stage 2: Query Transformation,Stage 2: Query Transformation,Category B: User Misconfiguration,0,73.76 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1823,Stage 2: Query Transformation,Stage 2: Query Transformation,Category A: System Implementation Defect,0,1456.38 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1811,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,246.54 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1772,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,97.35 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1719,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,53.99 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1704,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,179.26 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1700,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,17.93 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1668,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,432.0 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1641,Stage 2: Query Transformation,Stage 2: Query Transformation,Category B: User Misconfiguration,0,6.32 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1628,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,32.72 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1616,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,25.31 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1600,Stage 2: Query Transformation,Stage 2: Query Transformation,Category B: User Misconfiguration,0,3.25 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1596,Stage 2: Query Transformation,Stage 2: Query Transformation,Category A: System Implementation Defect,0,24.14 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1571,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,16.65 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1560,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,109.0 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1532,Stage 2: Query Transformation,Stage 2: Query Transformation,Category A: System Implementation Defect,0,23.25 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1514,Stage 2: Query Transformation,Stage 2: Query Transformation,Category B: User Misconfiguration,0,276.56 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1462,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,2.35 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1460,Stage 2: Query Transformation,Stage 0: System,Category B: User Misconfiguration,2,3.09 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1449,Stage 2: Query Transformation,Stage 2: Query Transformation,Category A: System Implementation Defect,0,725.04 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1335,Stage 2: Query Transformation,Stage 2: Query Transformation,Category B: User Misconfiguration,0,9.05 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1271,Stage 4: Post-Retrieval Processing,Stage 4: Post-Retrieval Processing,Category B: User Misconfiguration,0,51.6 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1253,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,156.81 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1188,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,162.47 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1156,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,689.77 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1085,Stage 4: Post-Retrieval Processing,Stage 4: Post-Retrieval Processing,Category B: User Misconfiguration,0,150.16 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1038,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,21.53 hours
+FastGPT,https://github.com/labring/FastGPT/issues/1032,Stage 2: Query Transformation,Stage 2: Query Transformation,Category B: User Misconfiguration,0,68.14 hours
+FastGPT,https://github.com/labring/FastGPT/issues/961,Stage 4: Post-Retrieval Processing,Stage 4: Post-Retrieval Processing,Category A: System Implementation Defect,0,384.23 hours
+FastGPT,https://github.com/labring/FastGPT/issues/937,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,2313.04 hours
+FastGPT,https://github.com/labring/FastGPT/issues/882,Stage 2: Query Transformation,Stage 2: Query Transformation,Category B: User Misconfiguration,0,8.15 hours
+FastGPT,https://github.com/labring/FastGPT/issues/829,Stage 4: Post-Retrieval Processing,Stage 4: Post-Retrieval Processing,Category B: User Misconfiguration,0,72.1 hours
+FastGPT,https://github.com/labring/FastGPT/issues/776,Stage 4: Post-Retrieval Processing,Stage 4: Post-Retrieval Processing,Category A: System Implementation Defect,0,247.65 hours
+FastGPT,https://github.com/labring/FastGPT/issues/760,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,284.62 hours
+FastGPT,https://github.com/labring/FastGPT/issues/691,Stage 3: Retrieval,Stage 2: Query Transformation,Category B: User Misconfiguration,1,0.3 hours
+FastGPT,https://github.com/labring/FastGPT/issues/652,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,159.22 hours
+FastGPT,https://github.com/labring/FastGPT/issues/647,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,2203.03 hours
+FastGPT,https://github.com/labring/FastGPT/issues/637,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,81.35 hours
+FastGPT,https://github.com/labring/FastGPT/issues/614,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,387.78 hours
+FastGPT,https://github.com/labring/FastGPT/issues/586,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,239.29 hours
+FastGPT,https://github.com/labring/FastGPT/issues/515,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,20.17 hours
+FastGPT,https://github.com/labring/FastGPT/issues/338,Stage 2: Query Transformation,Stage 0: System,Category A: System Implementation Defect,2,102.44 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1604,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,4.35 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1596,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,16.21 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1591,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,5.72 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1563,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,247.26 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1422,Stage 5: Generation,Stage 2: Query Transformation,Category A: System Implementation Defect,3,445.35 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1392,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,19.5 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1367,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,2.93 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1270,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,16.71 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1247,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,151.36 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1233,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,29.88 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1161,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,0.28 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1138,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,109.13 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1011,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,305.05 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/986,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,20.3 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/822,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,15.15 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/755,Stage 0: System,Stage 5: Generation,Category B: User Misconfiguration,5,32.71 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/745,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,38.51 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/739,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,500.3 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/705,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,11.69 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/670,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,37.8 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/640,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,3477.56 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/609,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,0 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/475,Stage 5: Generation,Stage 1: Indexing,Category A: System Implementation Defect,4,1541.34 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/461,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,1662.04 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/360,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,3618.61 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/340,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,64.8 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/335,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,45.32 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/256,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,2.56 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/144,Stage 5: Generation,Stage 3: Retrieval,Category B: User Misconfiguration,2,4310.06 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/129,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,23.86 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/118,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,165.25 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/104,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,98.68 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/73,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,6.58 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/37,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,29.67 hours
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/7,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,144.8 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1982,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,82.5 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1977,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,242.5 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1970,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,438.09 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1936,Stage 4: Post-Retrieval Processing,Stage 4: Post-Retrieval Processing,Category A: System Implementation Defect,0,28.61 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1876,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,633.81 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1859,Stage 5: Generation,Stage 0: System,Category B: User Misconfiguration,5,175.05 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1825,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,286.35 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1806,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,35.06 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1804,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,125.0 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1725,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,48.68 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1715,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,476.78 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1710,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,1773.81 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1673,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,1864.9 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1657,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,795.56 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1642,Stage 3: Retrieval,Stage 1: Indexing,Category A: System Implementation Defect,2,37.44 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1637,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,521.83 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1620,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,171.1 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1601,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,1142.98 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1557,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,32.55 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1538,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,370.29 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1506,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,970.84 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1499,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,134.79 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1481,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,276.18 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1476,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,151.73 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1472,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,876.25 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1432,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,933.95 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1430,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,2313.44 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1417,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,3884.8 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1410,Stage 3: Retrieval,Stage 1: Indexing,Category A: System Implementation Defect,2,2456.03 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1390,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,349.08 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1384,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,0.53 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1382,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,2152.01 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1367,Stage 2: Query Transformation,Stage 2: Query Transformation,Category A: System Implementation Defect,0,2681.04 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1355,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,1.19 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1335,Stage 3: Retrieval,Stage 1: Indexing,Category A: System Implementation Defect,2,2852.91 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1208,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,779.25 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1173,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,135.95 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1137,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,90.08 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1136,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,144.12 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1135,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,64.72 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1085,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,237.22 hours
+graphrag,https://github.com/microsoft/graphrag/issues/1080,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,180.32 hours
+graphrag,https://github.com/microsoft/graphrag/issues/946,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,190.31 hours
+graphrag,https://github.com/microsoft/graphrag/issues/871,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,4350.14 hours
+graphrag,https://github.com/microsoft/graphrag/issues/813,Stage 3: Retrieval,Stage 3: Retrieval,Category A: System Implementation Defect,0,87.41 hours
+graphrag,https://github.com/microsoft/graphrag/issues/796,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,546.1 hours
+graphrag,https://github.com/microsoft/graphrag/issues/793,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,31.2 hours
+graphrag,https://github.com/microsoft/graphrag/issues/789,Stage 3: Retrieval,Stage 0: System,Category A: System Implementation Defect,3,875.12 hours
+graphrag,https://github.com/microsoft/graphrag/issues/776,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,2036.62 hours
+graphrag,https://github.com/microsoft/graphrag/issues/770,Stage 3: Retrieval,Stage 0: System,Category A: System Implementation Defect,3,5074.23 hours
+graphrag,https://github.com/microsoft/graphrag/issues/676,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,166.72 hours
+graphrag,https://github.com/microsoft/graphrag/issues/674,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,480.54 hours
+graphrag,https://github.com/microsoft/graphrag/issues/615,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,189.45 hours
+graphrag,https://github.com/microsoft/graphrag/issues/613,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,194.43 hours
+graphrag,https://github.com/microsoft/graphrag/issues/599,Stage 3: Retrieval,Stage 0: System,Category A: System Implementation Defect,3,1165.75 hours
+graphrag,https://github.com/microsoft/graphrag/issues/498,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,23.23 hours
+graphrag,https://github.com/microsoft/graphrag/issues/492,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,30.09 hours
+graphrag,https://github.com/microsoft/graphrag/issues/489,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,0 hours
+graphrag,https://github.com/microsoft/graphrag/issues/479,Stage 5: Generation,Stage 0: System,Category B: User Misconfiguration,5,384.11 hours
+graphrag,https://github.com/microsoft/graphrag/issues/466,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,205.72 hours
+graphrag,https://github.com/microsoft/graphrag/issues/383,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,5.03 hours
+graphrag,https://github.com/microsoft/graphrag/issues/379,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,90.69 hours
+graphrag,https://github.com/microsoft/graphrag/issues/367,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,18.46 hours
+graphrag,https://github.com/microsoft/graphrag/issues/55,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,379.78 hours
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/123,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,33.34 hours
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/121,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,221.47 hours
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/76,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,276.49 hours
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/53,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,4304.32 hours
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/31,Stage 3: Retrieval,Stage 0: System,Category A: System Implementation Defect,3,58.61 hours
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/15,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,1113.88 hours
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/6,Stage 1: Indexing,Stage 0: System,Category B: User Misconfiguration,1,1347.79 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/2794,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,192.89 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/2784,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,2284.49 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/2782,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,140.13 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/2777,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,4103.11 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/2631,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,2448.84 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/2599,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,2983.91 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/2486,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,3609.84 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/2397,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,2746.35 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/2384,Stage 1: Indexing,Stage 0: System,Category A: System Implementation Defect,1,34.21 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/2356,Stage 3: Retrieval,Stage 1: Indexing,Category A: System Implementation Defect,2,4527.33 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/2270,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,156.96 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/2267,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,178.54 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/2263,Stage 3: Retrieval,Stage 1: Indexing,Category A: System Implementation Defect,2,46.02 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/2204,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,404.52 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/2056,Stage 5: Generation,Stage 1: Indexing,Category A: System Implementation Defect,4,5843.74 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/1690,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,7.37 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/1553,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,14.82 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/1393,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,18.76 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/1392,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,174.29 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/1363,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,111.3 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/1248,Stage 5: Generation,Stage 0: System,Category B: User Misconfiguration,5,238.16 hours
+quivr,https://github.com/QuivrHQ/quivr/issues/502,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,27.88 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/2138,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,0.22 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/1044,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,3234.75 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/1040,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,69.41 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/1028,Stage 0: System,Stage 0: System,Category B: User Misconfiguration,0,3409.04 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/990,Stage 1: Indexing,Stage 1: Indexing,Category A: System Implementation Defect,0,651.74 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/943,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,4354.56 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/931,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,4501.14 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/918,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,4583.89 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/869,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,4872.4 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/844,Stage 5: Generation,Stage 0: System,Category A: System Implementation Defect,5,320.6 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/621,Stage 0: System,Stage 5: Generation,Category B: User Misconfiguration,5,5934.16 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/567,Stage 0: System,Stage 0: System,Category A: System Implementation Defect,0,6053.29 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/566,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,2703.04 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/565,Stage 0: System,Stage 5: Generation,Category B: User Misconfiguration,5,6055.35 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/564,Stage 0: System,Stage 1: Indexing,Category B: User Misconfiguration,1,6063.51 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/559,Stage 0: System,Stage 5: Generation,Category B: User Misconfiguration,5,6068.05 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/557,Stage 0: System,Stage 5: Generation,Category B: User Misconfiguration,5,4.53 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/538,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,6094.41 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/517,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,6105.31 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/491,Stage 5: Generation,Stage 5: Generation,Category B: User Misconfiguration,0,136.22 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/468,Stage 0: System,Stage 1: Indexing,Category B: User Misconfiguration,1,2.86 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/466,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,6203.33 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/461,Stage 0: System,Stage 1: Indexing,Category B: User Misconfiguration,1,6210.63 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/459,Stage 0: System,Stage 5: Generation,Category B: User Misconfiguration,5,6211.53 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/394,Stage 0: System,Stage 5: Generation,Category B: User Misconfiguration,5,6257.82 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/368,Stage 0: System,Stage 5: Generation,Category B: User Misconfiguration,5,0.05 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/351,Stage 0: System,Stage 5: Generation,Category B: User Misconfiguration,5,6275.88 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/316,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,6327.72 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/250,Stage 1: Indexing,Stage 1: Indexing,Category B: User Misconfiguration,0,0.63 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/220,Stage 0: System,Stage 1: Indexing,Category A: System Implementation Defect,1,13.9 hours
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/218,Stage 5: Generation,Stage 5: Generation,Category A: System Implementation Defect,0,6402.96 hours
