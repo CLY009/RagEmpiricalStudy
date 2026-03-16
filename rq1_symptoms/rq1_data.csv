@@ -1,655 +1,655 @@
 ﻿System,Issue URL,Symptom Category,Symptom Sub-Category,Symptom Stage
-DocsGPT,https://github.com/arc53/DocsGPT/issues/1699,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-DocsGPT,https://github.com/arc53/DocsGPT/issues/1697,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DocsGPT,https://github.com/arc53/DocsGPT/issues/1400,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DocsGPT,https://github.com/arc53/DocsGPT/issues/1340,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-DocsGPT,https://github.com/arc53/DocsGPT/issues/1313,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 3: Retrieval
-DocsGPT,https://github.com/arc53/DocsGPT/issues/948,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 3: Retrieval
-DocsGPT,https://github.com/arc53/DocsGPT/issues/945,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 5: Generation
-DocsGPT,https://github.com/arc53/DocsGPT/issues/938,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 3: Retrieval
-DocsGPT,https://github.com/arc53/DocsGPT/issues/932,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DocsGPT,https://github.com/arc53/DocsGPT/issues/931,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-DocsGPT,https://github.com/arc53/DocsGPT/issues/930,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DocsGPT,https://github.com/arc53/DocsGPT/issues/884,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DocsGPT,https://github.com/arc53/DocsGPT/issues/833,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 5: Generation
-DocsGPT,https://github.com/arc53/DocsGPT/issues/800,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DocsGPT,https://github.com/arc53/DocsGPT/issues/745,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DocsGPT,https://github.com/arc53/DocsGPT/issues/562,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DocsGPT,https://github.com/arc53/DocsGPT/issues/344,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-DocsGPT,https://github.com/arc53/DocsGPT/issues/276,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-DocsGPT,https://github.com/arc53/DocsGPT/issues/195,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DocsGPT,https://github.com/arc53/DocsGPT/issues/179,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-DocsGPT,https://github.com/arc53/DocsGPT/issues/55,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2849,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2846,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2841,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2809,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2777,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2766,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2764,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2751,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2741,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2728,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2718,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2714,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2710,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2697,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2694,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2689,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2637,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2636,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 4: Post-Retrieval Processing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2607,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2595,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2576,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2562,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2554,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2495,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2475,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2469,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2468,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2458,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2444,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2439,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2437,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2430,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2422,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2418,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2417,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2415,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2400,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2399,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2391,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2353,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2344,Category A: Functional Execution Defects,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2321,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2315,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2288,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2287,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2284,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2261,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2224,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2219,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2214,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2206,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2184,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2163,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2140,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2136,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2116,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2068,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2065,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1990,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1751,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1748,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1723,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1714,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1704,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1707,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1669,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1660,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1642,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1636,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1621,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1600,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1581,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1571,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1562,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1546,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1523,Category A: Functional Execution Defects,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1498,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 4: Post-Retrieval Processing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1462,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1459,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1453,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1441,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1426,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1394,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1390,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1389,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1352,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1307,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1243,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1240,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1210,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1160,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1143,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1116,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1094,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1049,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1021,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/968,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/875,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/867,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/863,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/840,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/827,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/821,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/800,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/798,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/766,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/756,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/719,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/660,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/655,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/654,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/644,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/630,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/617,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/597,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/563,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/561,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/443,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/301,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/252,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1880,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1858,Category A: Functional Execution Defects,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1813,Category A: Functional Execution Defects,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1800,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1798,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1789,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1785,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1745,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1742,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1731,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1687,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1668,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1666,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1630,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1613,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1594,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1574,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1573,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1569,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1567,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1565,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 0: System
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1560,Category A: Functional Execution Defects,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1536,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1509,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1498,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1495,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1438,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1429,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1386,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1327,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1321,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1306,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1251,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1211,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1241,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1189,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1179,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1176,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1155,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1144,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1099,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1094,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1089,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1088,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1086,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1082,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1076,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1059,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-LightRAG,https://github.com/HKUDS/LightRAG/issues/1044,Category A: Functional Execution Defects,A2.2: Query Transformation Failure,Stage 2: Query Transformation
-LightRAG,https://github.com/HKUDS/LightRAG/issues/951,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/945,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-LightRAG,https://github.com/HKUDS/LightRAG/issues/936,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-LightRAG,https://github.com/HKUDS/LightRAG/issues/915,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-LightRAG,https://github.com/HKUDS/LightRAG/issues/838,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/767,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/680,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/677,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/676,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-LightRAG,https://github.com/HKUDS/LightRAG/issues/625,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-LightRAG,https://github.com/HKUDS/LightRAG/issues/606,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/249,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-LightRAG,https://github.com/HKUDS/LightRAG/issues/21,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-LightRAG,https://github.com/HKUDS/LightRAG/issues/11,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/9089,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/8965,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/8960,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/8926,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/8909,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/8840,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/8804,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/8719,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/8630,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/8656,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/8602,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/8588,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/8556,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/8503,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/8497,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/8467,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/8462,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/8455,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/8443,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/8419,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/8369,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/8360,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/8319,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/8297,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/8227,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/8226,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/8208,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/8193,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/8189,Category A: Functional Execution Defects,A2.2: Query Transformation Failure,Stage 2: Query Transformation
-ragflow,https://github.com/infiniflow/ragflow/issues/8143,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/8134,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/8109,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/8097,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/8059,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/8057,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/8033,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/8025,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/7980,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/7952,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/7908,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/7897,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/7879,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/7868,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/7830,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/7824,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/7803,Category A: Functional Execution Defects,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
-ragflow,https://github.com/infiniflow/ragflow/issues/7791,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/7790,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/7725,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/7702,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/7667,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/7644,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/7592,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/7567,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/7556,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/7542,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/7518,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/7466,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/7449,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/7428,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/7412,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 2: Query Transformation
-ragflow,https://github.com/infiniflow/ragflow/issues/7387,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/7371,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/7347,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/7321,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/7282,Category A: Functional Execution Defects,A2.2: Query Transformation Failure,Stage 2: Query Transformation
-ragflow,https://github.com/infiniflow/ragflow/issues/7277,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/7249,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/7237,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/7198,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/7184,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/7153,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/7095,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/7019,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/6945,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/6931,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/6862,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/6835,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/6803,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/6786,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/6784,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/6752,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/6741,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 4: Post-Retrieval Processing
-ragflow,https://github.com/infiniflow/ragflow/issues/6685,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/6653,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/6624,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/6607,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/6584,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/6570,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/6491,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/6308,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/6066,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/6031,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/5839,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/5761,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/5713,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/5700,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/5600,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/5575,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/5418,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/5382,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/5346,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/5261,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/5166,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/4968,Category A: Functional Execution Defects,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
-ragflow,https://github.com/infiniflow/ragflow/issues/4918,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/4885,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/4749,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/4678,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/4664,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/4647,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/4633,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/4567,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/4464,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/4379,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/4374,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/4331,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/4278,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/4230,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/4189,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/4180,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/4164,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/4163,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/4160,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/4141,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/4126,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/4124,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/4122,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/4120,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/4109,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/4003,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/3910,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/3905,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/3883,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/3820,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/3816,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/3814,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/3811,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/3799,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/3772,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/3729,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/3700,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/3696,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/3679,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/3657,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/3623,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/3596,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/3570,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/3538,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/3384,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/3308,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/3299,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/3273,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/3263,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/3253,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/3173,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/3153,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/3151,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/3024,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/2997,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/2948,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/2794,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/2765,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/2749,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/2739,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/2720,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/2575,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 4: Post-Retrieval Processing
-ragflow,https://github.com/infiniflow/ragflow/issues/2552,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 4: Post-Retrieval Processing
-ragflow,https://github.com/infiniflow/ragflow/issues/2545,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/2506,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/2463,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/2402,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/2362,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/2359,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/2270,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/2231,Category A: Functional Execution Defects,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
-ragflow,https://github.com/infiniflow/ragflow/issues/2198,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/2085,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/2053,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/1968,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/1958,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/1861,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/1848,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/1835,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/1800,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/1769,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/1726,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/1704,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/1627,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/1522,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/1475,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/1472,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/1436,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/1407,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/1403,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/1402,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/1395,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 4: Post-Retrieval Processing
-ragflow,https://github.com/infiniflow/ragflow/issues/1340,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/1288,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/1250,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/1210,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/1159,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/995,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-ragflow,https://github.com/infiniflow/ragflow/issues/994,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/991,Category A: Functional Execution Defects,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
-ragflow,https://github.com/infiniflow/ragflow/issues/980,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/963,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/922,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/834,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 3: Retrieval
-ragflow,https://github.com/infiniflow/ragflow/issues/651,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/509,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/502,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/477,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/436,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/423,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-ragflow,https://github.com/infiniflow/ragflow/issues/265,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-ragflow,https://github.com/infiniflow/ragflow/issues/209,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-FastGPT,https://github.com/labring/FastGPT/issues/4906,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-FastGPT,https://github.com/labring/FastGPT/issues/4879,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/4846,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 4: Post-Retrieval Processing
-FastGPT,https://github.com/labring/FastGPT/issues/4840,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/4829,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/4770,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-FastGPT,https://github.com/labring/FastGPT/issues/4738,Category A: Functional Execution Defects,A2.2: Query Transformation Failure,Stage 2: Query Transformation
-FastGPT,https://github.com/labring/FastGPT/issues/4653,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-FastGPT,https://github.com/labring/FastGPT/issues/4481,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/4255,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 4: Post-Retrieval Processing
-FastGPT,https://github.com/labring/FastGPT/issues/4034,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/4023,Category A: Functional Execution Defects,A2.2: Query Transformation Failure,Stage 2: Query Transformation
-FastGPT,https://github.com/labring/FastGPT/issues/3835,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/3793,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 3: Retrieval
-FastGPT,https://github.com/labring/FastGPT/issues/3791,Category A: Functional Execution Defects,A2.2: Query Transformation Failure,Stage 2: Query Transformation
-FastGPT,https://github.com/labring/FastGPT/issues/3705,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-FastGPT,https://github.com/labring/FastGPT/issues/3695,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-FastGPT,https://github.com/labring/FastGPT/issues/3694,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-FastGPT,https://github.com/labring/FastGPT/issues/3474,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-FastGPT,https://github.com/labring/FastGPT/issues/3017,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 2: Query Transformation
-FastGPT,https://github.com/labring/FastGPT/issues/2942,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/2929,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/2918,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/2899,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/2895,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 3: Retrieval
-FastGPT,https://github.com/labring/FastGPT/issues/2780,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/2770,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/2662,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/2519,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 2: Query Transformation
-FastGPT,https://github.com/labring/FastGPT/issues/2416,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-FastGPT,https://github.com/labring/FastGPT/issues/2289,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/2105,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/1933,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 2: Query Transformation
-FastGPT,https://github.com/labring/FastGPT/issues/1823,Category A: Functional Execution Defects,A2.2: Query Transformation Failure,Stage 2: Query Transformation
-FastGPT,https://github.com/labring/FastGPT/issues/1811,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/1772,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-FastGPT,https://github.com/labring/FastGPT/issues/1719,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/1704,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-FastGPT,https://github.com/labring/FastGPT/issues/1700,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/1668,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/1641,Category A: Functional Execution Defects,A2.2: Query Transformation Failure,Stage 2: Query Transformation
-FastGPT,https://github.com/labring/FastGPT/issues/1628,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-FastGPT,https://github.com/labring/FastGPT/issues/1616,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/1600,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 2: Query Transformation
-FastGPT,https://github.com/labring/FastGPT/issues/1596,Category A: Functional Execution Defects,A2.2: Query Transformation Failure,Stage 2: Query Transformation
-FastGPT,https://github.com/labring/FastGPT/issues/1571,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-FastGPT,https://github.com/labring/FastGPT/issues/1560,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/1532,Category A: Functional Execution Defects,A2.2: Query Transformation Failure,Stage 2: Query Transformation
-FastGPT,https://github.com/labring/FastGPT/issues/1514,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 2: Query Transformation
-FastGPT,https://github.com/labring/FastGPT/issues/1462,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/1460,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 2: Query Transformation
-FastGPT,https://github.com/labring/FastGPT/issues/1449,Category A: Functional Execution Defects,A2.2: Query Transformation Failure,Stage 2: Query Transformation
-FastGPT,https://github.com/labring/FastGPT/issues/1335,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 2: Query Transformation
-FastGPT,https://github.com/labring/FastGPT/issues/1271,Category A: Functional Execution Defects,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
-FastGPT,https://github.com/labring/FastGPT/issues/1253,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/1188,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/1156,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/1085,Category A: Functional Execution Defects,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
-FastGPT,https://github.com/labring/FastGPT/issues/1038,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/1032,Category A: Functional Execution Defects,A2.2: Query Transformation Failure,Stage 2: Query Transformation
-FastGPT,https://github.com/labring/FastGPT/issues/961,Category A: Functional Execution Defects,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
-FastGPT,https://github.com/labring/FastGPT/issues/937,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-FastGPT,https://github.com/labring/FastGPT/issues/882,Category A: Functional Execution Defects,A2.2: Query Transformation Failure,Stage 2: Query Transformation
-FastGPT,https://github.com/labring/FastGPT/issues/829,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 4: Post-Retrieval Processing
-FastGPT,https://github.com/labring/FastGPT/issues/776,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 4: Post-Retrieval Processing
-FastGPT,https://github.com/labring/FastGPT/issues/760,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/691,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 3: Retrieval
-FastGPT,https://github.com/labring/FastGPT/issues/652,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-FastGPT,https://github.com/labring/FastGPT/issues/647,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/637,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-FastGPT,https://github.com/labring/FastGPT/issues/614,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-FastGPT,https://github.com/labring/FastGPT/issues/586,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-FastGPT,https://github.com/labring/FastGPT/issues/515,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 1: Indexing
-FastGPT,https://github.com/labring/FastGPT/issues/338,Category A: Functional Execution Defects,A2.2: Query Transformation Failure,Stage 2: Query Transformation
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1604,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1596,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1591,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1563,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1422,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1392,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1367,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1270,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1247,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1233,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1161,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1138,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1011,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/986,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/822,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/755,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/745,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/739,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/705,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/670,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/640,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/609,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/475,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/461,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/360,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/340,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/335,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/256,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/144,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/129,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/118,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/104,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/73,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/37,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/7,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-graphrag,https://github.com/microsoft/graphrag/issues/1982,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-graphrag,https://github.com/microsoft/graphrag/issues/1977,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-graphrag,https://github.com/microsoft/graphrag/issues/1970,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 3: Retrieval
-graphrag,https://github.com/microsoft/graphrag/issues/1936,Category A: Functional Execution Defects,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
-graphrag,https://github.com/microsoft/graphrag/issues/1876,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1859,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-graphrag,https://github.com/microsoft/graphrag/issues/1825,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1806,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1804,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-graphrag,https://github.com/microsoft/graphrag/issues/1725,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-graphrag,https://github.com/microsoft/graphrag/issues/1715,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1710,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1673,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-graphrag,https://github.com/microsoft/graphrag/issues/1657,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1642,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-graphrag,https://github.com/microsoft/graphrag/issues/1637,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-graphrag,https://github.com/microsoft/graphrag/issues/1620,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1601,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1557,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1538,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-graphrag,https://github.com/microsoft/graphrag/issues/1506,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1499,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-graphrag,https://github.com/microsoft/graphrag/issues/1481,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1476,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1472,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1432,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 3: Retrieval
-graphrag,https://github.com/microsoft/graphrag/issues/1430,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-graphrag,https://github.com/microsoft/graphrag/issues/1417,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-graphrag,https://github.com/microsoft/graphrag/issues/1410,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-graphrag,https://github.com/microsoft/graphrag/issues/1390,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1384,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1382,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1367,Category A: Functional Execution Defects,A2.2: Query Transformation Failure,Stage 2: Query Transformation
-graphrag,https://github.com/microsoft/graphrag/issues/1355,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1335,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-graphrag,https://github.com/microsoft/graphrag/issues/1208,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1173,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-graphrag,https://github.com/microsoft/graphrag/issues/1137,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1136,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1135,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-graphrag,https://github.com/microsoft/graphrag/issues/1085,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/1080,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-graphrag,https://github.com/microsoft/graphrag/issues/946,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-graphrag,https://github.com/microsoft/graphrag/issues/871,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/813,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-graphrag,https://github.com/microsoft/graphrag/issues/796,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/793,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/789,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-graphrag,https://github.com/microsoft/graphrag/issues/776,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/770,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-graphrag,https://github.com/microsoft/graphrag/issues/676,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/674,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/615,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/613,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-graphrag,https://github.com/microsoft/graphrag/issues/599,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-graphrag,https://github.com/microsoft/graphrag/issues/498,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/492,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/489,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-graphrag,https://github.com/microsoft/graphrag/issues/479,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-graphrag,https://github.com/microsoft/graphrag/issues/466,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/383,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-graphrag,https://github.com/microsoft/graphrag/issues/379,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 0: System
-graphrag,https://github.com/microsoft/graphrag/issues/367,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 1: Indexing
-graphrag,https://github.com/microsoft/graphrag/issues/55,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/123,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/121,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/76,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 1: Indexing
-HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/53,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/31,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/15,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/6,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-quivr,https://github.com/QuivrHQ/quivr/issues/2794,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-quivr,https://github.com/QuivrHQ/quivr/issues/2784,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-quivr,https://github.com/QuivrHQ/quivr/issues/2782,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-quivr,https://github.com/QuivrHQ/quivr/issues/2777,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-quivr,https://github.com/QuivrHQ/quivr/issues/2631,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-quivr,https://github.com/QuivrHQ/quivr/issues/2599,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-quivr,https://github.com/QuivrHQ/quivr/issues/2486,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-quivr,https://github.com/QuivrHQ/quivr/issues/2397,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-quivr,https://github.com/QuivrHQ/quivr/issues/2384,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-quivr,https://github.com/QuivrHQ/quivr/issues/2356,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-quivr,https://github.com/QuivrHQ/quivr/issues/2270,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-quivr,https://github.com/QuivrHQ/quivr/issues/2267,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-quivr,https://github.com/QuivrHQ/quivr/issues/2263,Category A: Functional Execution Defects,A2.3: Retrieval Failure,Stage 3: Retrieval
-quivr,https://github.com/QuivrHQ/quivr/issues/2204,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-quivr,https://github.com/QuivrHQ/quivr/issues/2056,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-quivr,https://github.com/QuivrHQ/quivr/issues/1690,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-quivr,https://github.com/QuivrHQ/quivr/issues/1553,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-quivr,https://github.com/QuivrHQ/quivr/issues/1393,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-quivr,https://github.com/QuivrHQ/quivr/issues/1392,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-quivr,https://github.com/QuivrHQ/quivr/issues/1363,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-quivr,https://github.com/QuivrHQ/quivr/issues/1248,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-quivr,https://github.com/QuivrHQ/quivr/issues/502,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/2138,Category A: Functional Execution Defects,A3: Configuration Adherence Failure,Stage 5: Generation
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/1044,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/1040,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/1028,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/990,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/943,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/931,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 5: Generation
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/918,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/869,Category A: Functional Execution Defects,A1: System Crash & Unavailability,Stage 0: System
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/844,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/621,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/567,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/566,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/565,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/564,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/559,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/557,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/538,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 5: Generation
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/517,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/491,Category B: Result Quality & Performance Defects,B1: Answer Quality Defect,Stage 5: Generation
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/468,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/466,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/461,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/459,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/394,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/368,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/351,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/316,Category B: Result Quality & Performance Defects,B2: Efficiency & Resource Defect,Stage 5: Generation
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/250,Category A: Functional Execution Defects,A2.1: Indexing Failure,Stage 1: Indexing
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/220,Category A: Functional Execution Defects,A2.0: Initialization Failure,Stage 0: System
-private-gpt,https://github.com/zylon-ai/private-gpt/issues/218,Category A: Functional Execution Defects,A2.5: Generation Failure,Stage 5: Generation
+DocsGPT,https://github.com/arc53/DocsGPT/issues/1699,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+DocsGPT,https://github.com/arc53/DocsGPT/issues/1697,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DocsGPT,https://github.com/arc53/DocsGPT/issues/1400,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DocsGPT,https://github.com/arc53/DocsGPT/issues/1340,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+DocsGPT,https://github.com/arc53/DocsGPT/issues/1313,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 3: Retrieval
+DocsGPT,https://github.com/arc53/DocsGPT/issues/948,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 3: Retrieval
+DocsGPT,https://github.com/arc53/DocsGPT/issues/945,Category B: Behavior Faults,B2: Inefficient performance,Stage 5: Generation
+DocsGPT,https://github.com/arc53/DocsGPT/issues/938,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 3: Retrieval
+DocsGPT,https://github.com/arc53/DocsGPT/issues/932,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DocsGPT,https://github.com/arc53/DocsGPT/issues/931,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+DocsGPT,https://github.com/arc53/DocsGPT/issues/930,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DocsGPT,https://github.com/arc53/DocsGPT/issues/884,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DocsGPT,https://github.com/arc53/DocsGPT/issues/833,Category B: Behavior Faults,B2: Inefficient performance,Stage 5: Generation
+DocsGPT,https://github.com/arc53/DocsGPT/issues/800,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DocsGPT,https://github.com/arc53/DocsGPT/issues/745,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DocsGPT,https://github.com/arc53/DocsGPT/issues/562,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DocsGPT,https://github.com/arc53/DocsGPT/issues/344,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+DocsGPT,https://github.com/arc53/DocsGPT/issues/276,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+DocsGPT,https://github.com/arc53/DocsGPT/issues/195,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DocsGPT,https://github.com/arc53/DocsGPT/issues/179,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+DocsGPT,https://github.com/arc53/DocsGPT/issues/55,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2849,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2846,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2841,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2809,Category B: Behavior Faults,B2: Inefficient performance,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2777,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2766,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2764,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2751,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2741,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2728,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2718,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2714,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2710,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2697,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2694,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2689,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2637,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2636,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 4: Post-Retrieval Processing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2607,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2595,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2576,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2562,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2554,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2495,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2475,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2469,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2468,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2458,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2444,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2439,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2437,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2430,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2422,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2418,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2417,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2415,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2400,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2399,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2391,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2353,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2344,Category A: Functional Execution Faults,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2321,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2315,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2288,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2287,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2284,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2261,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2224,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2219,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2214,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2206,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2184,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2163,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2140,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2136,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2116,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2068,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2065,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1990,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1751,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1748,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1723,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1714,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1704,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1707,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1669,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1660,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1642,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1636,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1621,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1600,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1581,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1571,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1562,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1546,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1523,Category A: Functional Execution Faults,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1498,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 4: Post-Retrieval Processing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1462,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1459,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1453,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1441,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1426,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1394,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1390,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1389,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1352,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1307,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1243,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1240,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1210,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1160,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1143,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1116,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1094,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1049,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1021,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/968,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/875,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/867,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/863,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/840,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/827,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/821,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/800,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/798,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/766,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/756,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/719,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/660,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/655,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/654,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/644,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/630,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/617,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/597,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/563,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/561,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/443,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/301,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/252,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1880,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1858,Category A: Functional Execution Faults,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1813,Category A: Functional Execution Faults,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1800,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1798,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1789,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1785,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1745,Category B: Behavior Faults,B2: Inefficient performance,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1742,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1731,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1687,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1668,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1666,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1630,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1613,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1594,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1574,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1573,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1569,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1567,Category B: Behavior Faults,B1: Low-quality results,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1565,Category B: Behavior Faults,B2: Inefficient performance,Stage 0: Initialization 
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1560,Category A: Functional Execution Faults,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1536,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1509,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1498,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1495,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1438,Category B: Behavior Faults,B1: Low-quality results,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1429,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1386,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1327,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1321,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1306,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1251,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1211,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1241,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1189,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1179,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1176,Category B: Behavior Faults,B2: Inefficient performance,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1155,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1144,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1099,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1094,Category B: Behavior Faults,B1: Low-quality results,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1089,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1088,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1086,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1082,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1076,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1059,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+LightRAG,https://github.com/HKUDS/LightRAG/issues/1044,Category A: Functional Execution Faults,A2.2: Query Transformation Failure,Stage 2: Query Transformation
+LightRAG,https://github.com/HKUDS/LightRAG/issues/951,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/945,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+LightRAG,https://github.com/HKUDS/LightRAG/issues/936,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+LightRAG,https://github.com/HKUDS/LightRAG/issues/915,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+LightRAG,https://github.com/HKUDS/LightRAG/issues/838,Category B: Behavior Faults,B1: Low-quality results,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/767,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/680,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/677,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/676,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+LightRAG,https://github.com/HKUDS/LightRAG/issues/625,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+LightRAG,https://github.com/HKUDS/LightRAG/issues/606,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/249,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+LightRAG,https://github.com/HKUDS/LightRAG/issues/21,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+LightRAG,https://github.com/HKUDS/LightRAG/issues/11,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/9089,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/8965,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/8960,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/8926,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/8909,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8840,Category B: Behavior Faults,B2: Inefficient performance,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/8804,Category B: Behavior Faults,B1: Low-quality results,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8719,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8630,Category B: Behavior Faults,B1: Low-quality results,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8656,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8602,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8588,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/8556,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8503,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/8497,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/8467,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/8462,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8455,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8443,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8419,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/8369,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/8360,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8319,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8297,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/8227,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/8226,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/8208,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8193,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8189,Category A: Functional Execution Faults,A2.2: Query Transformation Failure,Stage 2: Query Transformation
+ragflow,https://github.com/infiniflow/ragflow/issues/8143,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/8134,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/8109,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8097,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/8059,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8057,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/8033,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/8025,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/7980,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7952,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7908,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/7897,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/7879,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7868,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7830,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/7824,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7803,Category A: Functional Execution Faults,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
+ragflow,https://github.com/infiniflow/ragflow/issues/7791,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/7790,Category B: Behavior Faults,B1: Low-quality results,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7725,Category B: Behavior Faults,B2: Inefficient performance,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/7702,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/7667,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7644,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/7592,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/7567,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7556,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/7542,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/7518,Category B: Behavior Faults,B2: Inefficient performance,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/7466,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7449,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7428,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/7412,Category B: Behavior Faults,B2: Inefficient performance,Stage 2: Query Transformation
+ragflow,https://github.com/infiniflow/ragflow/issues/7387,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7371,Category B: Behavior Faults,B1: Low-quality results,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7347,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/7321,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/7282,Category A: Functional Execution Faults,A2.2: Query Transformation Failure,Stage 2: Query Transformation
+ragflow,https://github.com/infiniflow/ragflow/issues/7277,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/7249,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/7237,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/7198,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/7184,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/7153,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/7095,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/7019,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6945,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6931,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/6862,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/6835,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6803,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6786,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6784,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6752,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/6741,Category B: Behavior Faults,B1: Low-quality results,Stage 4: Post-Retrieval Processing
+ragflow,https://github.com/infiniflow/ragflow/issues/6685,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6653,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6624,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6607,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6584,Category B: Behavior Faults,B2: Inefficient performance,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/6570,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6491,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/6308,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6066,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/6031,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/5839,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/5761,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/5713,Category B: Behavior Faults,B1: Low-quality results,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/5700,Category B: Behavior Faults,B1: Low-quality results,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/5600,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/5575,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/5418,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/5382,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/5346,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/5261,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/5166,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/4968,Category A: Functional Execution Faults,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
+ragflow,https://github.com/infiniflow/ragflow/issues/4918,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/4885,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/4749,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/4678,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/4664,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/4647,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/4633,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/4567,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/4464,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/4379,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/4374,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/4331,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/4278,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/4230,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/4189,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/4180,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/4164,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/4163,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/4160,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/4141,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/4126,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/4124,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/4122,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/4120,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/4109,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/4003,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/3910,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/3905,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/3883,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/3820,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/3816,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/3814,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/3811,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/3799,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/3772,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/3729,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/3700,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/3696,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/3679,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/3657,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/3623,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/3596,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/3570,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/3538,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/3384,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/3308,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/3299,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/3273,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/3263,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/3253,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/3173,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/3153,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/3151,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/3024,Category B: Behavior Faults,B2: Inefficient performance,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/2997,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/2948,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/2794,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/2765,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/2749,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/2739,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/2720,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/2575,Category B: Behavior Faults,B1: Low-quality results,Stage 4: Post-Retrieval Processing
+ragflow,https://github.com/infiniflow/ragflow/issues/2552,Category B: Behavior Faults,B1: Low-quality results,Stage 4: Post-Retrieval Processing
+ragflow,https://github.com/infiniflow/ragflow/issues/2545,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/2506,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/2463,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/2402,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/2362,Category B: Behavior Faults,B1: Low-quality results,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/2359,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/2270,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/2231,Category A: Functional Execution Faults,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
+ragflow,https://github.com/infiniflow/ragflow/issues/2198,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/2085,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/2053,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1968,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/1958,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1861,Category B: Behavior Faults,B1: Low-quality results,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1848,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/1835,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1800,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1769,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/1726,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/1704,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1627,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1522,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/1475,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1472,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/1436,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/1407,Category B: Behavior Faults,B1: Low-quality results,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1403,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/1402,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/1395,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 4: Post-Retrieval Processing
+ragflow,https://github.com/infiniflow/ragflow/issues/1340,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/1288,Category B: Behavior Faults,B2: Inefficient performance,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/1250,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1210,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/1159,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/995,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+ragflow,https://github.com/infiniflow/ragflow/issues/994,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/991,Category A: Functional Execution Faults,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
+ragflow,https://github.com/infiniflow/ragflow/issues/980,Category B: Behavior Faults,B2: Inefficient performance,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/963,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/922,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/834,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 3: Retrieval
+ragflow,https://github.com/infiniflow/ragflow/issues/651,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/509,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/502,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/477,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/436,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/423,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+ragflow,https://github.com/infiniflow/ragflow/issues/265,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+ragflow,https://github.com/infiniflow/ragflow/issues/209,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+FastGPT,https://github.com/labring/FastGPT/issues/4906,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+FastGPT,https://github.com/labring/FastGPT/issues/4879,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/4846,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 4: Post-Retrieval Processing
+FastGPT,https://github.com/labring/FastGPT/issues/4840,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/4829,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/4770,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+FastGPT,https://github.com/labring/FastGPT/issues/4738,Category A: Functional Execution Faults,A2.2: Query Transformation Failure,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/4653,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+FastGPT,https://github.com/labring/FastGPT/issues/4481,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/4255,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 4: Post-Retrieval Processing
+FastGPT,https://github.com/labring/FastGPT/issues/4034,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/4023,Category A: Functional Execution Faults,A2.2: Query Transformation Failure,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/3835,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/3793,Category B: Behavior Faults,B1: Low-quality results,Stage 3: Retrieval
+FastGPT,https://github.com/labring/FastGPT/issues/3791,Category A: Functional Execution Faults,A2.2: Query Transformation Failure,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/3705,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+FastGPT,https://github.com/labring/FastGPT/issues/3695,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+FastGPT,https://github.com/labring/FastGPT/issues/3694,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+FastGPT,https://github.com/labring/FastGPT/issues/3474,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+FastGPT,https://github.com/labring/FastGPT/issues/3017,Category B: Behavior Faults,B1: Low-quality results,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/2942,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/2929,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/2918,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/2899,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/2895,Category B: Behavior Faults,B1: Low-quality results,Stage 3: Retrieval
+FastGPT,https://github.com/labring/FastGPT/issues/2780,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/2770,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/2662,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/2519,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/2416,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+FastGPT,https://github.com/labring/FastGPT/issues/2289,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/2105,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1933,Category B: Behavior Faults,B1: Low-quality results,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/1823,Category A: Functional Execution Faults,A2.2: Query Transformation Failure,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/1811,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1772,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+FastGPT,https://github.com/labring/FastGPT/issues/1719,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1704,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+FastGPT,https://github.com/labring/FastGPT/issues/1700,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1668,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1641,Category A: Functional Execution Faults,A2.2: Query Transformation Failure,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/1628,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+FastGPT,https://github.com/labring/FastGPT/issues/1616,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1600,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/1596,Category A: Functional Execution Faults,A2.2: Query Transformation Failure,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/1571,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+FastGPT,https://github.com/labring/FastGPT/issues/1560,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1532,Category A: Functional Execution Faults,A2.2: Query Transformation Failure,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/1514,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/1462,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1460,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/1449,Category A: Functional Execution Faults,A2.2: Query Transformation Failure,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/1335,Category B: Behavior Faults,B2: Inefficient performance,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/1271,Category A: Functional Execution Faults,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
+FastGPT,https://github.com/labring/FastGPT/issues/1253,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1188,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1156,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1085,Category A: Functional Execution Faults,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
+FastGPT,https://github.com/labring/FastGPT/issues/1038,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/1032,Category A: Functional Execution Faults,A2.2: Query Transformation Failure,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/961,Category A: Functional Execution Faults,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
+FastGPT,https://github.com/labring/FastGPT/issues/937,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+FastGPT,https://github.com/labring/FastGPT/issues/882,Category A: Functional Execution Faults,A2.2: Query Transformation Failure,Stage 2: Query Transformation
+FastGPT,https://github.com/labring/FastGPT/issues/829,Category B: Behavior Faults,B2: Inefficient performance,Stage 4: Post-Retrieval Processing
+FastGPT,https://github.com/labring/FastGPT/issues/776,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 4: Post-Retrieval Processing
+FastGPT,https://github.com/labring/FastGPT/issues/760,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/691,Category B: Behavior Faults,B1: Low-quality results,Stage 3: Retrieval
+FastGPT,https://github.com/labring/FastGPT/issues/652,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+FastGPT,https://github.com/labring/FastGPT/issues/647,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/637,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+FastGPT,https://github.com/labring/FastGPT/issues/614,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+FastGPT,https://github.com/labring/FastGPT/issues/586,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+FastGPT,https://github.com/labring/FastGPT/issues/515,Category B: Behavior Faults,B1: Low-quality results,Stage 1: Indexing
+FastGPT,https://github.com/labring/FastGPT/issues/338,Category A: Functional Execution Faults,A2.2: Query Transformation Failure,Stage 2: Query Transformation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1604,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1596,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1591,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1563,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1422,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1392,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1367,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1270,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1247,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1233,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1161,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1138,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1011,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/986,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/822,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/755,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/745,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/739,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/705,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/670,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/640,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/609,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/475,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/461,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/360,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/340,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/335,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/256,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/144,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/129,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/118,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/104,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/73,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/37,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/7,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+graphrag,https://github.com/microsoft/graphrag/issues/1982,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+graphrag,https://github.com/microsoft/graphrag/issues/1977,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+graphrag,https://github.com/microsoft/graphrag/issues/1970,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 3: Retrieval
+graphrag,https://github.com/microsoft/graphrag/issues/1936,Category A: Functional Execution Faults,A2.4: Post-Retrieval Processing Failure,Stage 4: Post-Retrieval Processing
+graphrag,https://github.com/microsoft/graphrag/issues/1876,Category B: Behavior Faults,B1: Low-quality results,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1859,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+graphrag,https://github.com/microsoft/graphrag/issues/1825,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1806,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1804,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+graphrag,https://github.com/microsoft/graphrag/issues/1725,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+graphrag,https://github.com/microsoft/graphrag/issues/1715,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1710,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1673,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+graphrag,https://github.com/microsoft/graphrag/issues/1657,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1642,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+graphrag,https://github.com/microsoft/graphrag/issues/1637,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+graphrag,https://github.com/microsoft/graphrag/issues/1620,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1601,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1557,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1538,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+graphrag,https://github.com/microsoft/graphrag/issues/1506,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1499,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+graphrag,https://github.com/microsoft/graphrag/issues/1481,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1476,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1472,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1432,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 3: Retrieval
+graphrag,https://github.com/microsoft/graphrag/issues/1430,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+graphrag,https://github.com/microsoft/graphrag/issues/1417,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+graphrag,https://github.com/microsoft/graphrag/issues/1410,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+graphrag,https://github.com/microsoft/graphrag/issues/1390,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1384,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1382,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1367,Category A: Functional Execution Faults,A2.2: Query Transformation Failure,Stage 2: Query Transformation
+graphrag,https://github.com/microsoft/graphrag/issues/1355,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1335,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+graphrag,https://github.com/microsoft/graphrag/issues/1208,Category B: Behavior Faults,B2: Inefficient performance,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1173,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+graphrag,https://github.com/microsoft/graphrag/issues/1137,Category B: Behavior Faults,B2: Inefficient performance,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1136,Category B: Behavior Faults,B2: Inefficient performance,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1135,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+graphrag,https://github.com/microsoft/graphrag/issues/1085,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/1080,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+graphrag,https://github.com/microsoft/graphrag/issues/946,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+graphrag,https://github.com/microsoft/graphrag/issues/871,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/813,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+graphrag,https://github.com/microsoft/graphrag/issues/796,Category B: Behavior Faults,B1: Low-quality results,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/793,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/789,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+graphrag,https://github.com/microsoft/graphrag/issues/776,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/770,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+graphrag,https://github.com/microsoft/graphrag/issues/676,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/674,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/615,Category B: Behavior Faults,B1: Low-quality results,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/613,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+graphrag,https://github.com/microsoft/graphrag/issues/599,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+graphrag,https://github.com/microsoft/graphrag/issues/498,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/492,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/489,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+graphrag,https://github.com/microsoft/graphrag/issues/479,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+graphrag,https://github.com/microsoft/graphrag/issues/466,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/383,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+graphrag,https://github.com/microsoft/graphrag/issues/379,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 0: Initialization 
+graphrag,https://github.com/microsoft/graphrag/issues/367,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 1: Indexing
+graphrag,https://github.com/microsoft/graphrag/issues/55,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/123,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/121,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/76,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 1: Indexing
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/53,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/31,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/15,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/6,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+quivr,https://github.com/QuivrHQ/quivr/issues/2794,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/2784,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+quivr,https://github.com/QuivrHQ/quivr/issues/2782,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+quivr,https://github.com/QuivrHQ/quivr/issues/2777,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/2631,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/2599,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/2486,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+quivr,https://github.com/QuivrHQ/quivr/issues/2397,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+quivr,https://github.com/QuivrHQ/quivr/issues/2384,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+quivr,https://github.com/QuivrHQ/quivr/issues/2356,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+quivr,https://github.com/QuivrHQ/quivr/issues/2270,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/2267,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/2263,Category A: Functional Execution Faults,A2.3: Retrieval Failure,Stage 3: Retrieval
+quivr,https://github.com/QuivrHQ/quivr/issues/2204,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/2056,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/1690,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/1553,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/1393,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/1392,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+quivr,https://github.com/QuivrHQ/quivr/issues/1363,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/1248,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+quivr,https://github.com/QuivrHQ/quivr/issues/502,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/2138,Category A: Functional Execution Faults,A3: Configuration adherence fault,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/1044,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/1040,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/1028,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/990,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/943,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/931,Category B: Behavior Faults,B2: Inefficient performance,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/918,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/869,Category A: Functional Execution Faults,A1: System crash and unavailability,Stage 0: Initialization 
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/844,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/621,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/567,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/566,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/565,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/564,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/559,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/557,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/538,Category B: Behavior Faults,B2: Inefficient performance,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/517,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/491,Category B: Behavior Faults,B1: Low-quality results,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/468,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/466,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/461,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/459,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/394,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/368,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/351,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/316,Category B: Behavior Faults,B2: Inefficient performance,Stage 5: Generation
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/250,Category A: Functional Execution Faults,A2.1: Indexing Failure,Stage 1: Indexing
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/220,Category A: Functional Execution Faults,A2.0: Initialization Failure,Stage 0: Initialization 
+private-gpt,https://github.com/zylon-ai/private-gpt/issues/218,Category A: Functional Execution Faults,A2.5: Generation Failure,Stage 5: Generation

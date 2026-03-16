@@ -1,6 +1,6 @@
-# Configuration Vulnerability in Retrieval-Augmented Generation: A Taxonomy and Empirical Study
+# Demystifying Configuration Issues in Retrieval-Augmented Generation Systems: A Taxonomy and Empirical Study
 
-This repository contains dataset for the empirical study on **Configuration Vulnerabilities in Retrieval-Augmented Generation : A Taxonomy and Empirical Study**.
+This repository contains dataset for the empirical study on **Demystifying Configuration Issues in Retrieval-Augmented Generation Systems: A Taxonomy and Empirical Study**.
 
 The dataset includes **654 real-world configuration issues** collected from 10 representative open-source RAG systems. It provides a comprehensive dataset of how configuration issues manifest (Symptoms), where they originate (Root Causes), how they propagate (Diagnosis Gap), and how they are resolved (Fix Patterns).
 
