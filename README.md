@@ -14,6 +14,6 @@ To align directly with the Research Questions in our paper, the dataset is organ
 │
 ├── rq1_symptoms/                  # [N=654] Data for RQ1 (Symptom manifestation and stages).
 ├── rq2_root_causes/               # [N=654] Data for RQ2 (Root cause and stages).
-├── rq3_impact/                    # [N=654] Data for RQ3 (Diagnosis Gap and Fix Cost).
+├── rq3_impact/                    # [N=654] Data for RQ3 (Stage Gap and Resolving Costs).
 └── rq4_solutions/                 # [N=345] Data for RQ4 (Fix Patterns). Filtered to only include issues with Pull Requests.
 ```
