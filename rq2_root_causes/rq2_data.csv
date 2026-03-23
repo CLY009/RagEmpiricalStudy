@@ -1,24 +1,24 @@
 ﻿System,Issue URL,Root Cause Category,Root Cause Sub-Category,Root Cause Stage
 arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/1699,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S0: Initialization
-arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/1697,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
-arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/1400,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
+arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/1697,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
+arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/1400,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
 arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/1340,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S0: Initialization
 arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/1313,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/948,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/945,RC-A: Configuration Bugs,RC-A5: Resource provisioning and orchestration bug,S0: Initialization
 arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/938,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/932,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.4: External Data Source,S1: Indexing
-arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/931,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
-arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/930,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
+arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/931,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
+arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/930,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
 arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/884,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S1: Indexing
 arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/833,RC-A: Configuration Bugs,RC-A5: Resource provisioning and orchestration bug,S0: Initialization
 arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/800,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S0: Initialization
 arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/745,RC-B: User Misconfigurations,RC-B2: Component coordination mistake,S3: Retrieval
 arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/562,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
-arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/344,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
+arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/344,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
 arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/276,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/195,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S3: Retrieval
-arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/179,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/179,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 arc53_DocsGPT,https://github.com/arc53/DocsGPT/issues/55,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.3: Embedding Model,S1: Indexing
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2849,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2846,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
@@ -51,11 +51,11 @@ eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2458,RC-A: Con
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2444,RC-A: Configuration Bugs,RC-A5: Resource provisioning and orchestration bug,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2439,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.6: A4.6,S5: Generation
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2437,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S1: Indexing
-eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2430,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2430,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2422,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2418,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2417,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S1: Indexing
-eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2415,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2415,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2400,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2399,RC-A: Configuration Bugs,RC-A3: Inter-component integration bug,S5: Generation
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2391,RC-A: Configuration Bugs,RC-A3: Inter-component integration bug,S0: Initialization
@@ -73,21 +73,21 @@ eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2214,RC-A: Con
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2206,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S5: Generation
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2184,RC-A: Configuration Bugs,RC-A5: Resource provisioning and orchestration bug,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2163,RC-A: Configuration Bugs,RC-A5: Resource provisioning and orchestration bug,S0: Initialization
-eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2140,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2140,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2136,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S5: Generation
-eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2116,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2116,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2068,RC-A: Configuration Bugs,RC-A5: Resource provisioning and orchestration bug,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/2065,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1990,RC-A: Configuration Bugs,RC-A3: Inter-component integration bug,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1751,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1748,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.3: Embedding Model,S1: Indexing
-eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1723,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1723,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1714,RC-A: Configuration Bugs,RC-A5: Resource provisioning and orchestration bug,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1704,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S5: Generation
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1707,RC-A: Configuration Bugs,RC-A3: Inter-component integration bug,S3: Retrieval
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1669,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S1: Indexing
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1660,RC-A: Configuration Bugs,RC-A3: Inter-component integration bug,S1: Indexing
-eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1642,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
+eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1642,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1636,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S5: Generation
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1621,RC-B: User Misconfigurations,RC-B2: Component coordination mistake,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1600,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S0: Initialization
@@ -108,7 +108,7 @@ eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1389,RC-A: Con
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1352,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1307,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1243,RC-A: Configuration Bugs,RC-A3: Inter-component integration bug,S0: Initialization
-eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1240,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1240,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1210,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S1: Indexing
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1160,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1143,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.5: A4.5,S0: Initialization
@@ -119,8 +119,8 @@ eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/1021,RC-A: Con
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/968,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/875,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/867,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
-eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/863,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
-eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/840,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
+eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/863,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
+eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/840,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/827,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/821,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/800,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S1: Indexing
@@ -130,7 +130,7 @@ eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/756,RC-A: Conf
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/719,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S5: Generation
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/660,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S1: Indexing
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/655,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
-eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/654,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
+eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/654,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/644,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/630,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S0: Initialization
 eosphoros-ai_DB-GPT,https://github.com/eosphoros-ai/DB-GPT/issues/617,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.5: A4.5,S0: Initialization
@@ -156,22 +156,22 @@ HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1666,RC-A: Configuration
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1630,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S1: Indexing
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1613,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S1: Indexing
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1594,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S1: Indexing
-HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1574,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
+HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1574,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1573,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S0: Initialization
-HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1569,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
-HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1567,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1569,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
+HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1567,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1565,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S0: Initialization
-HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1560,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1560,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1536,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S1: Indexing
-HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1509,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1509,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1498,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S0: Initialization
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1495,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1438,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S1: Indexing
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1429,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S3: Retrieval
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1386,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S1: Indexing
-HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1327,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
-HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1321,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
-HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1306,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
+HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1327,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
+HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1321,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
+HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1306,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1251,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S3: Retrieval
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1211,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S0: Initialization
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1241,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S0: Initialization
@@ -181,7 +181,7 @@ HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1176,RC-A: Configuration
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1155,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S0: Initialization
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1144,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S0: Initialization
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1099,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S3: Retrieval
-HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1094,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1094,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1089,RC-A: Configuration Bugs,RC-A3: Inter-component integration bug,S0: Initialization
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1088,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S1: Indexing
 HKUDS_LightRAG,https://github.com/HKUDS/LightRAG/issues/1086,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S3: Retrieval
@@ -208,7 +208,7 @@ infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8965,RC-B: User 
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8960,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.3: Embedding Model,S1: Indexing
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8926,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S0: Initialization
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8909,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S1: Indexing
-infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8840,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8840,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8804,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S1: Indexing
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8719,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S1: Indexing
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8630,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S1: Indexing
@@ -225,10 +225,10 @@ infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8443,RC-A: Confi
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8419,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8369,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S5: Generation
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8360,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.3: Embedding Model,S1: Indexing
-infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8319,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
+infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8319,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8297,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8227,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S1: Indexing
-infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8226,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8226,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8208,RC-A: Configuration Bugs,RC-A3: Inter-component integration bug,S0: Initialization
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8193,RC-B: User Misconfigurations,RC-B4: Documentation-induced misconfiguration,S0: Initialization
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/8189,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S2: Query Transformation
@@ -258,7 +258,7 @@ infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7644,RC-A: Confi
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7592,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S3: Retrieval
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7567,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7556,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S3: Retrieval
-infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7542,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7542,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7518,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7466,RC-A: Configuration Bugs,RC-A3: Inter-component integration bug,S1: Indexing
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7449,RC-A: Configuration Bugs,RC-A5: Resource provisioning and orchestration bug,S0: Initialization
@@ -274,7 +274,7 @@ infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7249,RC-A: Confi
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7237,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S3: Retrieval
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7198,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7184,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S3: Retrieval
-infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7153,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
+infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7153,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7095,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/7019,RC-B: User Misconfigurations,RC-B4: Documentation-induced misconfiguration,S1: Indexing
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/6945,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
@@ -318,7 +318,7 @@ infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/4633,RC-A: Confi
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/4567,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.3: Embedding Model,S1: Indexing
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/4464,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.6: A4.6,S3: Retrieval
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/4379,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S0: Initialization
-infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/4374,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
+infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/4374,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/4331,RC-A: Configuration Bugs,RC-A3: Inter-component integration bug,S1: Indexing
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/4278,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S5: Generation
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/4230,RC-A: Configuration Bugs,RC-A3: Inter-component integration bug,S1: Indexing
@@ -341,7 +341,7 @@ infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/3820,RC-A: Confi
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/3816,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.3: Embedding Model,S1: Indexing
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/3814,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/3811,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S0: Initialization
-infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/3799,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
+infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/3799,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/3772,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S0: Initialization
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/3729,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S1: Indexing
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/3700,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.7: A4.7,S4: Post-Retrieval Processing
@@ -361,11 +361,11 @@ infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/3253,RC-A: Confi
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/3173,RC-A: Configuration Bugs,RC-A5: Resource provisioning and orchestration bug,S0: Initialization
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/3153,RC-A: Configuration Bugs,RC-A3: Inter-component integration bug,S3: Retrieval
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/3151,RC-A: Configuration Bugs,RC-A3: Inter-component integration bug,S3: Retrieval
-infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/3024,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S3: Retrieval
+infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/3024,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S3: Retrieval
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/2997,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.3: Embedding Model,S1: Indexing
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/2948,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/2794,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S0: Initialization
-infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/2765,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
+infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/2765,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/2749,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S0: Initialization
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/2739,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/2720,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
@@ -405,7 +405,7 @@ infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/1288,RC-A: Confi
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/1250,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S1: Indexing
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/1210,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S1: Indexing
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/1159,RC-A: Configuration Bugs,RC-A3: Inter-component integration bug,S1: Indexing
-infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/995,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
+infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/995,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/994,RC-A: Configuration Bugs,RC-A3: Inter-component integration bug,S1: Indexing
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/991,RC-A: Configuration Bugs,RC-A3: Inter-component integration bug,S4: Post-Retrieval Processing
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/980,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
@@ -421,38 +421,38 @@ infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/423,RC-A: Config
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/265,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
 infiniflow_ragflow,https://github.com/infiniflow/ragflow/issues/209,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 labring_FastGPT,https://github.com/labring/FastGPT/issues/4906,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.4: External Data Source,S1: Indexing
-labring_FastGPT,https://github.com/labring/FastGPT/issues/4879,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
-labring_FastGPT,https://github.com/labring/FastGPT/issues/4846,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S4: Post-Retrieval Processing
+labring_FastGPT,https://github.com/labring/FastGPT/issues/4879,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
+labring_FastGPT,https://github.com/labring/FastGPT/issues/4846,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S4: Post-Retrieval Processing
 labring_FastGPT,https://github.com/labring/FastGPT/issues/4840,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/4829,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S2: Query Transformation
-labring_FastGPT,https://github.com/labring/FastGPT/issues/4770,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
-labring_FastGPT,https://github.com/labring/FastGPT/issues/4738,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S2: Query Transformation
+labring_FastGPT,https://github.com/labring/FastGPT/issues/4770,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
+labring_FastGPT,https://github.com/labring/FastGPT/issues/4738,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S2: Query Transformation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/4653,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S0: Initialization
 labring_FastGPT,https://github.com/labring/FastGPT/issues/4481,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S5: Generation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/4255,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.7: A4.7,S4: Post-Retrieval Processing
 labring_FastGPT,https://github.com/labring/FastGPT/issues/4034,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
-labring_FastGPT,https://github.com/labring/FastGPT/issues/4023,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S2: Query Transformation
-labring_FastGPT,https://github.com/labring/FastGPT/issues/3835,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
-labring_FastGPT,https://github.com/labring/FastGPT/issues/3793,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
-labring_FastGPT,https://github.com/labring/FastGPT/issues/3791,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S2: Query Transformation
+labring_FastGPT,https://github.com/labring/FastGPT/issues/4023,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S2: Query Transformation
+labring_FastGPT,https://github.com/labring/FastGPT/issues/3835,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
+labring_FastGPT,https://github.com/labring/FastGPT/issues/3793,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
+labring_FastGPT,https://github.com/labring/FastGPT/issues/3791,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S2: Query Transformation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/3705,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 labring_FastGPT,https://github.com/labring/FastGPT/issues/3695,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S0: Initialization
 labring_FastGPT,https://github.com/labring/FastGPT/issues/3694,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.7: A4.7,S4: Post-Retrieval Processing
-labring_FastGPT,https://github.com/labring/FastGPT/issues/3474,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
-labring_FastGPT,https://github.com/labring/FastGPT/issues/3017,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S2: Query Transformation
+labring_FastGPT,https://github.com/labring/FastGPT/issues/3474,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
+labring_FastGPT,https://github.com/labring/FastGPT/issues/3017,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S2: Query Transformation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/2942,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S5: Generation
-labring_FastGPT,https://github.com/labring/FastGPT/issues/2929,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
+labring_FastGPT,https://github.com/labring/FastGPT/issues/2929,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/2918,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S5: Generation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/2899,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S5: Generation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/2895,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S1: Indexing
 labring_FastGPT,https://github.com/labring/FastGPT/issues/2780,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/2770,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
-labring_FastGPT,https://github.com/labring/FastGPT/issues/2662,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
-labring_FastGPT,https://github.com/labring/FastGPT/issues/2519,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S2: Query Transformation
-labring_FastGPT,https://github.com/labring/FastGPT/issues/2416,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
+labring_FastGPT,https://github.com/labring/FastGPT/issues/2662,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
+labring_FastGPT,https://github.com/labring/FastGPT/issues/2519,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S2: Query Transformation
+labring_FastGPT,https://github.com/labring/FastGPT/issues/2416,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
 labring_FastGPT,https://github.com/labring/FastGPT/issues/2289,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S0: Initialization
-labring_FastGPT,https://github.com/labring/FastGPT/issues/2105,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
-labring_FastGPT,https://github.com/labring/FastGPT/issues/1933,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S2: Query Transformation
+labring_FastGPT,https://github.com/labring/FastGPT/issues/2105,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
+labring_FastGPT,https://github.com/labring/FastGPT/issues/1933,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S2: Query Transformation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/1823,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S2: Query Transformation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/1811,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/1772,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
@@ -460,59 +460,59 @@ labring_FastGPT,https://github.com/labring/FastGPT/issues/1719,RC-A: Configurati
 labring_FastGPT,https://github.com/labring/FastGPT/issues/1704,RC-A: Configuration Bugs,RC-A5: Resource provisioning and orchestration bug,S0: Initialization
 labring_FastGPT,https://github.com/labring/FastGPT/issues/1700,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/1668,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
-labring_FastGPT,https://github.com/labring/FastGPT/issues/1641,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S2: Query Transformation
-labring_FastGPT,https://github.com/labring/FastGPT/issues/1628,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
-labring_FastGPT,https://github.com/labring/FastGPT/issues/1616,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
+labring_FastGPT,https://github.com/labring/FastGPT/issues/1641,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S2: Query Transformation
+labring_FastGPT,https://github.com/labring/FastGPT/issues/1628,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
+labring_FastGPT,https://github.com/labring/FastGPT/issues/1616,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/1600,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S2: Query Transformation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/1596,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S2: Query Transformation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/1571,RC-A: Configuration Bugs,RC-A5: Resource provisioning and orchestration bug,S0: Initialization
-labring_FastGPT,https://github.com/labring/FastGPT/issues/1560,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
+labring_FastGPT,https://github.com/labring/FastGPT/issues/1560,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/1532,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S2: Query Transformation
-labring_FastGPT,https://github.com/labring/FastGPT/issues/1514,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S2: Query Transformation
+labring_FastGPT,https://github.com/labring/FastGPT/issues/1514,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S2: Query Transformation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/1462,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S5: Generation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/1460,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S0: Initialization
 labring_FastGPT,https://github.com/labring/FastGPT/issues/1449,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S2: Query Transformation
-labring_FastGPT,https://github.com/labring/FastGPT/issues/1335,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S2: Query Transformation
-labring_FastGPT,https://github.com/labring/FastGPT/issues/1271,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S4: Post-Retrieval Processing
+labring_FastGPT,https://github.com/labring/FastGPT/issues/1335,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S2: Query Transformation
+labring_FastGPT,https://github.com/labring/FastGPT/issues/1271,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S4: Post-Retrieval Processing
 labring_FastGPT,https://github.com/labring/FastGPT/issues/1253,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/1188,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S5: Generation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/1156,RC-B: User Misconfigurations,RC-B2: Component coordination mistake,S5: Generation
-labring_FastGPT,https://github.com/labring/FastGPT/issues/1085,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S4: Post-Retrieval Processing
+labring_FastGPT,https://github.com/labring/FastGPT/issues/1085,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S4: Post-Retrieval Processing
 labring_FastGPT,https://github.com/labring/FastGPT/issues/1038,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
-labring_FastGPT,https://github.com/labring/FastGPT/issues/1032,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S2: Query Transformation
+labring_FastGPT,https://github.com/labring/FastGPT/issues/1032,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S2: Query Transformation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/961,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.7: A4.7,S4: Post-Retrieval Processing
-labring_FastGPT,https://github.com/labring/FastGPT/issues/937,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
+labring_FastGPT,https://github.com/labring/FastGPT/issues/937,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
 labring_FastGPT,https://github.com/labring/FastGPT/issues/882,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S2: Query Transformation
-labring_FastGPT,https://github.com/labring/FastGPT/issues/829,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S4: Post-Retrieval Processing
+labring_FastGPT,https://github.com/labring/FastGPT/issues/829,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S4: Post-Retrieval Processing
 labring_FastGPT,https://github.com/labring/FastGPT/issues/776,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S4: Post-Retrieval Processing
 labring_FastGPT,https://github.com/labring/FastGPT/issues/760,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/691,RC-B: User Misconfigurations,RC-B2: Component coordination mistake,S2: Query Transformation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/652,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 labring_FastGPT,https://github.com/labring/FastGPT/issues/647,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S5: Generation
-labring_FastGPT,https://github.com/labring/FastGPT/issues/637,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
+labring_FastGPT,https://github.com/labring/FastGPT/issues/637,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
 labring_FastGPT,https://github.com/labring/FastGPT/issues/614,RC-B: User Misconfigurations,RC-B2: Component coordination mistake,S5: Generation
 labring_FastGPT,https://github.com/labring/FastGPT/issues/586,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S1: Indexing
 labring_FastGPT,https://github.com/labring/FastGPT/issues/515,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S1: Indexing
 labring_FastGPT,https://github.com/labring/FastGPT/issues/338,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
-logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1604,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
+logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1604,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1596,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1591,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1563,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1422,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S2: Query Transformation
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1392,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
-logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1367,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
-logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1270,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
+logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1367,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
+logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1270,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1247,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1233,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
-logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1161,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
-logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1138,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
+logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1161,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
+logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1138,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/1011,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.3: Embedding Model,S1: Indexing
-logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/986,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
+logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/986,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/822,RC-A: Configuration Bugs,RC-A5: Resource provisioning and orchestration bug,S0: Initialization
-logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/755,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
-logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/745,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
+logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/755,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
+logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/745,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/739,RC-A: Configuration Bugs,RC-A5: Resource provisioning and orchestration bug,S0: Initialization
-logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/705,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
+logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/705,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/670,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S5: Generation
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/640,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.3: Embedding Model,S1: Indexing
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/609,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
@@ -520,23 +520,23 @@ logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issue
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/461,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.5: A4.5,S0: Initialization
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/360,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.5: A4.5,S0: Initialization
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/340,RC-B: User Misconfigurations,RC-B2: Component coordination mistake,S1: Indexing
-logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/335,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
-logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/256,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
+logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/335,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
+logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/256,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/144,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S3: Retrieval
-logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/129,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
+logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/129,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/118,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/104,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S5: Generation
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/73,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S5: Generation
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/37,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 logancyang_obsidian-copilot,https://github.com/logancyang/obsidian-copilot/issues/7,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S5: Generation
 microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1982,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S0: Initialization
-microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1977,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1977,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1970,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S3: Retrieval
 microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1936,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S4: Post-Retrieval Processing
 microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1876,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S1: Indexing
-microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1859,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1859,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1825,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S1: Indexing
-microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1806,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1806,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1804,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S3: Retrieval
 microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1725,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
 microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1715,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S1: Indexing
@@ -569,7 +569,7 @@ microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1173,RC-A: Confi
 microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1137,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S1: Indexing
 microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1136,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S1: Indexing
 microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1135,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
-microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1085,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1085,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 microsoft_graphrag,https://github.com/microsoft/graphrag/issues/1080,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 microsoft_graphrag,https://github.com/microsoft/graphrag/issues/946,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 microsoft_graphrag,https://github.com/microsoft/graphrag/issues/871,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S1: Indexing
@@ -596,10 +596,10 @@ microsoft_graphrag,https://github.com/microsoft/graphrag/issues/55,RC-A: Configu
 OSU-NLP-Group_HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/123,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S1: Indexing
 OSU-NLP-Group_HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/121,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S5: Generation
 OSU-NLP-Group_HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/76,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.3: Embedding Model,S1: Indexing
-OSU-NLP-Group_HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/53,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+OSU-NLP-Group_HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/53,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 OSU-NLP-Group_HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/31,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
-OSU-NLP-Group_HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/15,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
-OSU-NLP-Group_HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/6,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+OSU-NLP-Group_HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/15,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
+OSU-NLP-Group_HippoRAG,https://github.com/OSU-NLP-Group/HippoRAG/issues/6,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/2794,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
 QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/2784,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S1: Indexing
 QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/2782,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S0: Initialization
@@ -607,7 +607,7 @@ QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/2777,RC-A: Configuration B
 QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/2631,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
 QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/2599,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S5: Generation
 QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/2486,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.3: Embedding Model,S1: Indexing
-QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/2397,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/2397,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/2384,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/2356,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.3: Embedding Model,S1: Indexing
 QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/2270,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S5: Generation
@@ -617,39 +617,39 @@ QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/2204,RC-A: Configuration B
 QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/2056,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.3: Embedding Model,S1: Indexing
 QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/1690,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S5: Generation
 QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/1553,RC-A: Configuration Bugs,RC-A2: RAG component implementation bug,S5: Generation
-QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/1393,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
+QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/1393,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
 QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/1392,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S0: Initialization
-QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/1363,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
-QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/1248,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/1363,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
+QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/1248,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 QuivrHQ_quivr,https://github.com/QuivrHQ/quivr/issues/502,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S1: Indexing
 zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/2138,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S5: Generation
 zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/1044,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/1040,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S1: Indexing
-zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/1028,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S0: Initialization
+zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/1028,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S0: Initialization
 zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/990,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S1: Indexing
 zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/943,RC-A: Configuration Bugs,RC-A1: Configuration handling bug,S0: Initialization
 zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/931,RC-A: Configuration Bugs,RC-A5: Resource provisioning and orchestration bug,S0: Initialization
 zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/918,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S0: Initialization
 zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/869,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.2: Database,S0: Initialization
 zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/844,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S0: Initialization
-zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/621,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
+zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/621,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
 zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/567,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.1: LLM,S0: Initialization
 zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/566,RC-A: Configuration Bugs,RC-A3: Inter-component integration bug,S5: Generation
-zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/565,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
-zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/564,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
-zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/559,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
-zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/557,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
+zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/565,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
+zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/564,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
+zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/559,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
+zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/557,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
 zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/538,RC-A: Configuration Bugs,RC-A5: Resource provisioning and orchestration bug,S5: Generation
-zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/517,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
+zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/517,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
 zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/491,RC-B: User Misconfigurations,RC-B3: Configuration misunderstanding,S5: Generation
 zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/468,RC-B: User Misconfigurations,RC-B2: Component coordination mistake,S1: Indexing
 zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/466,RC-A: Configuration Bugs,RC-A3: Inter-component integration bug,S5: Generation
-zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/461,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
-zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/459,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
-zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/394,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
-zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/368,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
-zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/351,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S5: Generation
+zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/461,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
+zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/459,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
+zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/394,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
+zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/368,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
+zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/351,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S5: Generation
 zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/316,RC-A: Configuration Bugs,RC-A5: Resource provisioning and orchestration bug,S5: Generation
-zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/250,RC-B: User Misconfigurations,RC-B1: Resource configuration mistake,S1: Indexing
+zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/250,RC-B: User Misconfigurations,RC-B1: External configuration mistake,S1: Indexing
 zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/220,RC-A: Configuration Bugs,RC-A4: External system adaptation bug > A4.3: Embedding Model,S1: Indexing
 zylon-ai_private-gpt,https://github.com/zylon-ai/private-gpt/issues/218,RC-A: Configuration Bugs,RC-A3: Inter-component integration bug,S5: Generation
