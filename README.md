@@ -6,6 +6,9 @@ The dataset includes **654 real-world configuration issues** collected from 10 r
 
 In addition, this repository includes an **inter-rater agreement sample set** for Cohen's Kappa calculation on these annotation dimensions: Symptom, Root Cause (and stages) and Fix Pattern labels
 
+And the insights supplement provides detailed guidance for the nine actionable insights reported in the paper. For each insight, it explains the empirical basis, gives concrete engineering guidance, and includes an example of how the insight can be applied in practice.
+
+
 ## 📂 Repository Structure
 
 To align directly with the Research Questions in our paper, the dataset is organized as follows:
