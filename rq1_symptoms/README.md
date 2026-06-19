@@ -1,6 +1,6 @@
 # RQ1 Symptoms Dataset
 
-This folder contains the dataset used for **RQ1: How do RAG configuration issues manifest as symptoms, and at which stage do they appear?**
+This folder contains the dataset used for **RQ1: What common symptoms do configuration issues exhibit in RAG systems?**
 
 ## Files
 

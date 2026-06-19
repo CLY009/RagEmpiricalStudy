@@ -1,6 +1,6 @@
 # RQ2 Root Causes Dataset
 
-This folder contains the dataset used for **RQ2: What are the root causes of RAG configuration issues, and at which stage do they originate?**
+This folder contains the dataset used for **RQ2: What commonly causes the configuration issues?**
 
 ## Files
 

@@ -1,6 +1,6 @@
 # RQ3 Impact Dataset
 
-This folder contains the dataset used for **RQ3: How far can a configuration issue propagate across stages, and what is the resolving cost?**
+This folder contains the dataset used for **RQ3: How do the deviated stages between symptom and root cause affect the resolution of configuration issues?**
 
 ## Files
 

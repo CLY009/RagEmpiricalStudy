@@ -1,6 +1,6 @@
 # RQ4 Solutions Dataset
 
-This folder contains the dataset used for **RQ4: How are RAG configuration issues fixed in practice?**
+This folder contains the dataset used for **RQ4: How are the actual configuration bugs often fixed?**
 
 ## Files
 
